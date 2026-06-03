@@ -1,0 +1,701 @@
+[
+    {
+        "id": "f1a2b3c4d5e6",
+        "type": "tab",
+        "label": "Smart Trash",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "serial_in",
+        "type": "serial in",
+        "z": "f1a2b3c4d5e6",
+        "name": "Arduino Serial",
+        "serial": "230317f9d5b37eec",
+        "x": 140,
+        "y": 120,
+        "wires": [
+            [
+                "json_parse"
+            ]
+        ]
+    },
+    {
+        "id": "json_parse",
+        "type": "json",
+        "z": "f1a2b3c4d5e6",
+        "name": "JSON Parse",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 340,
+        "y": 120,
+        "wires": [
+            [
+                "process_data",
+                "19221fdf42c01f56",
+                "validate_data"
+            ]
+        ]
+    },
+    {
+        "id": "process_data",
+        "type": "function",
+        "z": "f1a2b3c4d5e6",
+        "name": "Process Trash Data",
+        "func": "let data = msg.payload;\n\nif(!data.type){\n    return null;\n}\n\nmsg.payload = {\n    type: data.type || \"none\",\n    moisture: data.moisture || 0,\n    metalCount: data.metalCount || 0,\n    wetCount: data.wetCount || 0,\n    dryCount: data.dryCount || 0\n};\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 120,
+        "wires": [
+            [
+                "current_detection",
+                "moisture_gauge",
+                "dry_card",
+                "wet_card",
+                "metal_card",
+                "pie_function",
+                "activity_chart_function",
+                "activity_log",
+                "toast_notification",
+                "firebase_formatter"
+            ]
+        ]
+    },
+    {
+        "id": "current_detection",
+        "type": "ui_template",
+        "z": "f1a2b3c4d5e6",
+        "group": "ui_group_realtime",
+        "name": "Current Detection",
+        "order": 1,
+        "width": 6,
+        "height": 6,
+        "format": "<div style=\"text-align:center;padding-top:20px;\">\n\n<div ng-if=\"msg.payload.type=='wet'\">\n<div style=\"font-size:90px;animation: pulse 1s infinite;\">💧</div>\n<div style=\"font-size:28px;color:#03a9f4;font-weight:bold;\">WET TRASH</div>\n</div>\n\n<div ng-if=\"msg.payload.type=='dry'\">\n<div style=\"font-size:90px;animation: pulse 1s infinite;\">🟤</div>\n<div style=\"font-size:28px;color:#ff9800;font-weight:bold;\">DRY TRASH</div>\n</div>\n\n<div ng-if=\"msg.payload.type=='metal'\">\n<div style=\"font-size:90px;animation: pulse 1s infinite;\">⚙️</div>\n<div style=\"font-size:28px;color:#cfd8dc;font-weight:bold;\">METAL DETECTED</div>\n</div>\n\n<style>\n@keyframes pulse {\n0% {transform: scale(1);}\n50% {transform: scale(1.1);}\n100% {transform: scale(1);}\n}\n</style>\n\n</div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 910,
+        "y": 40,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "moisture_gauge",
+        "type": "ui_gauge",
+        "z": "f1a2b3c4d5e6",
+        "name": "Moisture",
+        "group": "ui_group_realtime",
+        "order": 2,
+        "width": 6,
+        "height": 6,
+        "gtype": "gage",
+        "title": "Moisture Level",
+        "label": "%",
+        "format": "{{msg.payload.moisture}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#ff9800",
+            "#ffc107",
+            "#03a9f4"
+        ],
+        "seg1": "20",
+        "seg2": "60",
+        "diff": false,
+        "className": "",
+        "x": 900,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "dry_card",
+        "type": "ui_template",
+        "z": "f1a2b3c4d5e6",
+        "group": "ui_group_stats",
+        "name": "Dry Card",
+        "order": 1,
+        "width": 4,
+        "height": 4,
+        "format": "<div style=\"background:#3e2723;padding:20px;border-radius:15px;text-align:center;box-shadow:0 0 15px rgba(0,0,0,0.4);\">\n<div style=\"font-size:50px;\">🟤</div>\n<div style=\"font-size:30px;font-weight:bold;color:white;\">{{msg.payload.dryCount}}</div>\n<div style=\"font-size:18px;color:#ddd;\">Dry Trash</div>\n</div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 860,
+        "y": 180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "wet_card",
+        "type": "ui_template",
+        "z": "f1a2b3c4d5e6",
+        "group": "ui_group_stats",
+        "name": "Wet Card",
+        "order": 2,
+        "width": 4,
+        "height": 4,
+        "format": "<div style=\"background:#01579b;padding:20px;border-radius:15px;text-align:center;box-shadow:0 0 15px rgba(0,0,0,0.4);\">\n<div style=\"font-size:50px;\">💧</div>\n<div style=\"font-size:30px;font-weight:bold;color:white;\">{{msg.payload.wetCount}}</div>\n<div style=\"font-size:18px;color:#ddd;\">Wet Trash</div>\n</div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 860,
+        "y": 240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "metal_card",
+        "type": "ui_template",
+        "z": "f1a2b3c4d5e6",
+        "group": "ui_group_stats",
+        "name": "Metal Card",
+        "order": 3,
+        "width": 4,
+        "height": 4,
+        "format": "<div style=\"background:#37474f;padding:20px;border-radius:15px;text-align:center;box-shadow:0 0 15px rgba(0,0,0,0.4);\">\n<div style=\"font-size:50px;\">⚙️</div>\n<div style=\"font-size:30px;font-weight:bold;color:white;\">{{msg.payload.metalCount}}</div>\n<div style=\"font-size:18px;color:#ddd;\">Metal Trash</div>\n</div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 870,
+        "y": 300,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "pie_function",
+        "type": "function",
+        "z": "f1a2b3c4d5e6",
+        "name": "Pie Data",
+        "func": "msg.payload = [{\n    series: [\"Trash\"],\n    data: [[\n        msg.payload.dryCount,\n        msg.payload.wetCount,\n        msg.payload.metalCount\n    ]],\n    labels: [\"Dry\", \"Wet\", \"Metal\"]\n}];\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 830,
+        "y": 380,
+        "wires": [
+            [
+                "pie_chart"
+            ]
+        ]
+    },
+    {
+        "id": "pie_chart",
+        "type": "ui_chart",
+        "z": "f1a2b3c4d5e6",
+        "name": "Trash Distribution",
+        "group": "ui_group_chart",
+        "order": 1,
+        "width": 6,
+        "height": 6,
+        "label": "Trash Distribution",
+        "chartType": "pie",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": "1",
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#ff9800",
+            "#03a9f4",
+            "#b0bec5",
+            "#000000",
+            "#000000",
+            "#000000",
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1070,
+        "y": 380,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "activity_chart_function",
+        "type": "function",
+        "z": "f1a2b3c4d5e6",
+        "name": "Realtime Activity",
+        "func": "msg.payload = [{\n    series: [\"Count\"],\n    data: [[\n        msg.payload.dryCount,\n        msg.payload.wetCount,\n        msg.payload.metalCount\n    ]],\n    labels: [\"Dry\", \"Wet\", \"Metal\"]\n}];\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 850,
+        "y": 460,
+        "wires": [
+            [
+                "activity_chart"
+            ]
+        ]
+    },
+    {
+        "id": "activity_chart",
+        "type": "ui_chart",
+        "z": "f1a2b3c4d5e6",
+        "name": "Realtime Activity",
+        "group": "ui_group_chart",
+        "order": 2,
+        "width": 6,
+        "height": 6,
+        "label": "Realtime Trash Detection",
+        "chartType": "bar",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": true,
+        "ymin": "0",
+        "ymax": "20",
+        "removeOlder": "1",
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#ff9800",
+            "#03a9f4",
+            "#cfd8dc",
+            "#000000",
+            "#000000",
+            "#000000",
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1080,
+        "y": 460,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "activity_log",
+        "type": "function",
+        "z": "f1a2b3c4d5e6",
+        "name": "Log Format",
+        "func": "let now = new Date().toLocaleTimeString();\nmsg.payload = `[${now}] ${msg.payload.type.toUpperCase()} detected | Moisture: ${msg.payload.moisture}%`;\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 820,
+        "y": 540,
+        "wires": [
+            [
+                "log_text"
+            ]
+        ]
+    },
+    {
+        "id": "log_text",
+        "type": "ui_text",
+        "z": "f1a2b3c4d5e6",
+        "group": "ui_group_log",
+        "order": 1,
+        "width": 12,
+        "height": 1,
+        "name": "Activity Log",
+        "label": "Latest Activity",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": "",
+        "color": "#000000",
+        "x": 1060,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "toast_notification",
+        "type": "ui_toast",
+        "z": "f1a2b3c4d5e6",
+        "position": "top right",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": true,
+        "className": "",
+        "topic": "Trash Detection",
+        "name": "Notification",
+        "x": 1070,
+        "y": 620,
+        "wires": [],
+        "info": "Trash"
+    },
+    {
+        "id": "19221fdf42c01f56",
+        "type": "debug",
+        "z": "f1a2b3c4d5e6",
+        "name": "debug 1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 340,
+        "y": 20,
+        "wires": []
+    },
+    {
+        "id": "validate_data",
+        "type": "function",
+        "z": "f1a2b3c4d5e6",
+        "name": "Validate Trash Data",
+        "func": "// Ignore messages without trash type\nif(!msg.payload.type){\n    return null;\n}\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 570,
+        "y": 820,
+        "wires": [
+            [
+                "format_csv",
+                "dashboard_preview"
+            ]
+        ]
+    },
+    {
+        "id": "format_csv",
+        "type": "function",
+        "z": "f1a2b3c4d5e6",
+        "name": "Format CSV",
+        "func": "let now = new Date().toLocaleString();\n\nlet type = msg.payload.type || \"unknown\";\nlet moisture = msg.payload.moisture || 0;\n\nlet dry = msg.payload.dryCount || 0;\nlet wet = msg.payload.wetCount || 0;\nlet metal = msg.payload.metalCount || 0;\n\nlet total = dry + wet + metal;\n\nmsg.payload =\n`${now},${type},${moisture},${dry},${wet},${metal},${total}\\n`;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 800,
+        "y": 780,
+        "wires": [
+            [
+                "write_csv"
+            ]
+        ]
+    },
+    {
+        "id": "write_csv",
+        "type": "file",
+        "z": "f1a2b3c4d5e6",
+        "name": "Write CSV File",
+        "filename": "D:\\School\\Year 3\\HK2\\Công nghệ Internet of Things hiện đại\\Project\\Data\\log.csv",
+        "filenameType": "str",
+        "appendNewline": false,
+        "createDir": false,
+        "overwriteFile": "false",
+        "encoding": "none",
+        "x": 1030,
+        "y": 780,
+        "wires": [
+            [
+                "write_success"
+            ]
+        ]
+    },
+    {
+        "id": "write_success",
+        "type": "debug",
+        "z": "f1a2b3c4d5e6",
+        "name": "CSV Saved",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": true,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "payload",
+        "statusType": "auto",
+        "x": 1240,
+        "y": 780,
+        "wires": []
+    },
+    {
+        "id": "dashboard_preview",
+        "type": "function",
+        "z": "f1a2b3c4d5e6",
+        "name": "Preview Format",
+        "func": "let now = new Date().toLocaleTimeString();\n\nmsg.payload = `🗑 ${msg.payload.type.toUpperCase()} | Moisture: ${msg.payload.moisture}% | Time: ${now}`;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 790,
+        "y": 880,
+        "wires": [
+            [
+                "ui_text_preview"
+            ]
+        ]
+    },
+    {
+        "id": "ui_text_preview",
+        "type": "ui_text",
+        "z": "f1a2b3c4d5e6",
+        "group": "ui_group_csv",
+        "order": 1,
+        "width": "12",
+        "height": "1",
+        "name": "Latest CSV Log",
+        "label": "Latest Saved Data",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": "",
+        "color": "#000000",
+        "x": 1040,
+        "y": 880,
+        "wires": []
+    },
+    {
+        "id": "inject_header",
+        "type": "inject",
+        "z": "f1a2b3c4d5e6",
+        "name": "Create CSV Header",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "Day,Time,Type,Moisture,DryTotal,WetTotal,MetalTotal,GrandTotal",
+        "payloadType": "str",
+        "x": 180,
+        "y": 980,
+        "wires": [
+            [
+                "write_header"
+            ]
+        ]
+    },
+    {
+        "id": "write_header",
+        "type": "file",
+        "z": "f1a2b3c4d5e6",
+        "name": "Write CSV Header",
+        "filename": "D:\\School\\Year 3\\HK2\\Công nghệ Internet of Things hiện đại\\Project\\Data\\log.csv",
+        "filenameType": "str",
+        "appendNewline": true,
+        "createDir": false,
+        "overwriteFile": "true",
+        "encoding": "none",
+        "x": 460,
+        "y": 980,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "230317f9d5b37eec",
+        "type": "serial-port",
+        "name": "",
+        "serialport": "COM3",
+        "serialbaud": "9600",
+        "databits": 8,
+        "parity": "none",
+        "stopbits": 1,
+        "waitfor": "",
+        "dtr": "none",
+        "rts": "none",
+        "cts": "none",
+        "dsr": "none",
+        "newline": "\\n",
+        "bin": "false",
+        "out": "char",
+        "addchar": "a single string",
+        "responsetimeout": 10000
+    },
+    {
+        "id": "ui_group_realtime",
+        "type": "ui_group",
+        "name": "Realtime Detection",
+        "tab": "ui_tab_trash",
+        "order": 1,
+        "disp": true,
+        "width": "12",
+        "collapse": false
+    },
+    {
+        "id": "ui_group_stats",
+        "type": "ui_group",
+        "name": "Statistics",
+        "tab": "ui_tab_trash",
+        "order": 2,
+        "disp": true,
+        "width": 12,
+        "collapse": false
+    },
+    {
+        "id": "ui_group_chart",
+        "type": "ui_group",
+        "name": "Analytics",
+        "tab": "ui_tab_trash",
+        "order": 3,
+        "disp": true,
+        "width": "12",
+        "collapse": false
+    },
+    {
+        "id": "ui_group_log",
+        "type": "ui_group",
+        "name": "Activity Log",
+        "tab": "ui_tab_trash",
+        "order": 4,
+        "disp": true,
+        "width": "12",
+        "collapse": false
+    },
+    {
+        "id": "ui_group_csv",
+        "type": "ui_group",
+        "name": "CSV Logger Status",
+        "tab": "ui_tab_csv",
+        "order": 1,
+        "disp": true,
+        "width": "12",
+        "collapse": false
+    },
+    {
+        "id": "ui_tab_trash",
+        "type": "ui_tab",
+        "name": "Smart Trash",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "ui_tab_csv",
+        "type": "ui_tab",
+        "name": "Trash Logging",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "9808b0b6ef5a25a2",
+        "type": "global-config",
+        "env": [],
+        "modules": {
+            "node-red-node-serialport": "2.0.3",
+            "node-red-dashboard": "3.6.6"
+        }
+    },
+    {
+        "id": "firebase_formatter",
+        "type": "function",
+        "z": "f1a2b3c4d5e6",
+        "name": "Format Firebase Data",
+        "func": "let data = msg.payload;\nlet timestamp = new Date().getTime();\n\nlet msg_status = {\n    method: \"PATCH\",\n    url: \"https://smart-trash-iot-c0ec4-default-rtdb.asia-southeast1.firebasedatabase.app/system_status.json\",\n    headers: {\n        \"Content-Type\": \"application/json\"\n    },\n    payload: {\n        dryCount: data.dryCount,\n        wetCount: data.wetCount,\n        metalCount: data.metalCount,\n        lastUpdated: timestamp,\n        currentTrash: {\n            type: data.type,\n            moisture: data.moisture,\n            timestamp: timestamp\n        }\n    }\n};\n\nlet msg_history = {\n    method: \"POST\",\n    url: \"https://smart-trash-iot-c0ec4-default-rtdb.asia-southeast1.firebasedatabase.app/history_logs.json\",\n    headers: {\n        \"Content-Type\": \"application/json\"\n    },\n    payload: {\n        type: data.type,\n        moisture: data.moisture,\n        timestamp: timestamp\n    }\n};\n\nreturn [msg_status, msg_history];",
+        "outputs": 2,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 830,
+        "y": 120,
+        "wires": [
+            [
+                "firebase_http_status"
+            ],
+            [
+                "firebase_http_history"
+            ]
+        ]
+    },
+    {
+        "id": "firebase_http_status",
+        "type": "http request",
+        "z": "f1a2b3c4d5e6",
+        "name": "Update System Status",
+        "method": "use",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 1090,
+        "y": 100,
+        "wires": [[]]
+    },
+    {
+        "id": "firebase_http_history",
+        "type": "http request",
+        "z": "f1a2b3c4d5e6",
+        "name": "Post History Log",
+        "method": "use",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 1090,
+        "y": 160,
+        "wires": [[]]
+    }
+]

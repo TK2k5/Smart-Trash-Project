@@ -1,0 +1,1877 @@
+{
+  "history_logs": {
+    "-OtxEYCT3U5mCOs3_YfP": {
+      "moisture": 0,
+      "timestamp": 1780217687707,
+      "type": "dry"
+    },
+    "-OtxEZhD_b88B2U_h6JH": {
+      "moisture": 0,
+      "timestamp": 1780217694060,
+      "type": "dry"
+    },
+    "-OtxEaIZNPYGyd6DCrYC": {
+      "moisture": 100,
+      "timestamp": 1780217700619,
+      "type": "wet"
+    },
+    "-OtxEdppVGKGrr-enylR": {
+      "moisture": 100,
+      "timestamp": 1780217715100,
+      "type": "wet"
+    },
+    "-OtxEhREvPGbDFkQkT13": {
+      "moisture": 8,
+      "timestamp": 1780217729577,
+      "type": "dry"
+    },
+    "-OtxEj_O-UxdMyyehEYj": {
+      "moisture": 4,
+      "timestamp": 1780217738538,
+      "type": "dry"
+    },
+    "-OtxEl9hmXdQYavtpxOP": {
+      "moisture": 4,
+      "timestamp": 1780217745096,
+      "type": "dry"
+    },
+    "-OtxEmlQIBnfrF6oyWsj": {
+      "moisture": 4,
+      "timestamp": 1780217751656,
+      "type": "dry"
+    },
+    "-OtxEoMY636MmyX3apX2": {
+      "moisture": 4,
+      "timestamp": 1780217758215,
+      "type": "dry"
+    },
+    "-OtxEpyZQEC-YB4aQ2wi": {
+      "moisture": 4,
+      "timestamp": 1780217764773,
+      "type": "dry"
+    },
+    "-OtxErZvdpn_j8grtQhm": {
+      "moisture": 4,
+      "timestamp": 1780217771331,
+      "type": "dry"
+    },
+    "-OtxEtDD2mIWBxHTNvkY": {
+      "moisture": 4,
+      "timestamp": 1780217777891,
+      "type": "dry"
+    },
+    "-OtxEulg8tWIKVdszADi": {
+      "moisture": 4,
+      "timestamp": 1780217784450,
+      "type": "dry"
+    },
+    "-OtxEwNtfekV1pKZZz4E": {
+      "moisture": 4,
+      "timestamp": 1780217791010,
+      "type": "dry"
+    },
+    "-OtxExyPGRpicVcyLZPl": {
+      "moisture": 4,
+      "timestamp": 1780217797571,
+      "type": "dry"
+    },
+    "-OtxEz_IYnpU-4bsi8Hc": {
+      "moisture": 4,
+      "timestamp": 1780217804131,
+      "type": "dry"
+    },
+    "-OtxF0AyqACZdSqu38xE": {
+      "moisture": 4,
+      "timestamp": 1780217810691,
+      "type": "dry"
+    },
+    "-OtxF1mEhVbHdYyN_bVP": {
+      "moisture": 4,
+      "timestamp": 1780217817250,
+      "type": "dry"
+    },
+    "-OtxF3NnJIV8ReZ4K8NV": {
+      "moisture": 4,
+      "timestamp": 1780217823811,
+      "type": "dry"
+    },
+    "-OtxF4zGL6ve92I2eB3h": {
+      "moisture": 1,
+      "timestamp": 1780217830371,
+      "type": "dry"
+    },
+    "-OtxF6a2G6U_7jAV9M_i": {
+      "moisture": 4,
+      "timestamp": 1780217836931,
+      "type": "dry"
+    },
+    "-OtxF8CMWgwp6_JNEaoJ": {
+      "moisture": 6,
+      "timestamp": 1780217843492,
+      "type": "dry"
+    },
+    "-OtxF9mt-Bk5Gs6glO7_": {
+      "moisture": 4,
+      "timestamp": 1780217850052,
+      "type": "dry"
+    },
+    "-OtxFBOh71G6hswu8mpc": {
+      "moisture": 4,
+      "timestamp": 1780217856613,
+      "type": "dry"
+    },
+    "-OtxFD-C4Y845j4VGps3": {
+      "moisture": 4,
+      "timestamp": 1780217863171,
+      "type": "dry"
+    },
+    "-OtxFE_zKNwqAfFCSSRl": {
+      "moisture": 4,
+      "timestamp": 1780217869731,
+      "type": "dry"
+    },
+    "-OtxFGBk1yFttnuwmVBI": {
+      "moisture": 4,
+      "timestamp": 1780217876292,
+      "type": "dry"
+    },
+    "-OtxFHnujnYWODFTFWCa": {
+      "moisture": 4,
+      "timestamp": 1780217882851,
+      "type": "dry"
+    },
+    "-OtxFJP-9SgTqUtzosU-": {
+      "moisture": 4,
+      "timestamp": 1780217889412,
+      "type": "dry"
+    },
+    "-OtxFKztS3iT8QSyYmVE": {
+      "moisture": 4,
+      "timestamp": 1780217895971,
+      "type": "dry"
+    },
+    "-OtxFMaRjFT1-qwYz8ox": {
+      "moisture": 4,
+      "timestamp": 1780217902531,
+      "type": "dry"
+    },
+    "-OtxFOChWrjQS8Z1OzOi": {
+      "moisture": 4,
+      "timestamp": 1780217909092,
+      "type": "dry"
+    },
+    "-OtxFPogqL3T130A5Ufd": {
+      "moisture": 4,
+      "timestamp": 1780217915652,
+      "type": "dry"
+    },
+    "-OtxFRQ7zFPq2XJWgKbd": {
+      "moisture": 4,
+      "timestamp": 1780217922212,
+      "type": "dry"
+    },
+    "-OtxFT3-BDJ9itiDZ_tl": {
+      "moisture": 4,
+      "timestamp": 1780217928773,
+      "type": "dry"
+    },
+    "-OtxFUbJx0MwxY5oszYP": {
+      "moisture": 3,
+      "timestamp": 1780217935332,
+      "type": "dry"
+    },
+    "-OtxFWCPHrydBZ263xHs": {
+      "moisture": 5,
+      "timestamp": 1780217941890,
+      "type": "dry"
+    },
+    "-OtxFXoN_wnO_G9P6uRK": {
+      "moisture": 14,
+      "timestamp": 1780217948452,
+      "type": "dry"
+    },
+    "-OtxFZPmCVQnjYqK-tHO": {
+      "moisture": 5,
+      "timestamp": 1780217955012,
+      "type": "dry"
+    },
+    "-OtxFa0QSGUV1KlIyglL": {
+      "moisture": 5,
+      "timestamp": 1780217961575,
+      "type": "dry"
+    },
+    "-OtxFbbsfsKG9oWO_P6o": {
+      "moisture": 13,
+      "timestamp": 1780217968134,
+      "type": "dry"
+    },
+    "-OtxGGG-W4VpmC-GUH71": {
+      "moisture": 9,
+      "timestamp": 1780218138713,
+      "type": "dry"
+    },
+    "-OtxGHrqZrC-Mzt1qxS-": {
+      "moisture": 7,
+      "timestamp": 1780218145273,
+      "type": "dry"
+    },
+    "-OtxGJTEASAYEkyapVtD": {
+      "moisture": 10,
+      "timestamp": 1780218151835,
+      "type": "dry"
+    },
+    "-OtxGL3gX8Md4GXisZbi": {
+      "moisture": 9,
+      "timestamp": 1780218158394,
+      "type": "dry"
+    },
+    "-OtxGMfjZ2yFdkTzHRLH": {
+      "moisture": 8,
+      "timestamp": 1780218164954,
+      "type": "dry"
+    },
+    "-OtxGOIZNPMoEJSQoyqG": {
+      "moisture": 8,
+      "timestamp": 1780218171516,
+      "type": "dry"
+    },
+    "-OtxGPsKQsDiYEKcN8uG": {
+      "moisture": 8,
+      "timestamp": 1780218178076,
+      "type": "dry"
+    },
+    "-OtxGRTjtaKe-fhFEPI9": {
+      "moisture": 8,
+      "timestamp": 1780218184635,
+      "type": "dry"
+    },
+    "-OtxGT4J3UflBKMFjaai": {
+      "moisture": 8,
+      "timestamp": 1780218191195,
+      "type": "dry"
+    },
+    "-OtxGUg9iv46FV--gs1v": {
+      "moisture": 8,
+      "timestamp": 1780218197756,
+      "type": "dry"
+    },
+    "-OtxGWHPGLcrANwI3uy0": {
+      "moisture": 8,
+      "timestamp": 1780218204318,
+      "type": "dry"
+    },
+    "-OtxGXsuE9ehRbpGyCO_": {
+      "moisture": 8,
+      "timestamp": 1780218210877,
+      "type": "dry"
+    },
+    "-OtxGZUIxnV9bsqZO5HH": {
+      "moisture": 9,
+      "timestamp": 1780218217436,
+      "type": "dry"
+    },
+    "-OtxGa4PCO-4VIWNftD2": {
+      "moisture": 9,
+      "timestamp": 1780218223995,
+      "type": "dry"
+    },
+    "-OtxGbgeD_wpJHKM22se": {
+      "moisture": 9,
+      "timestamp": 1780218230555,
+      "type": "dry"
+    },
+    "-OtxGdHosXZZprCi8VOi": {
+      "moisture": 9,
+      "timestamp": 1780218237115,
+      "type": "dry"
+    },
+    "-OtxGesx0IXowMPUtVM4": {
+      "moisture": 9,
+      "timestamp": 1780218243677,
+      "type": "dry"
+    },
+    "-OtxGgUv2HuBUkVqaeEo": {
+      "moisture": 9,
+      "timestamp": 1780218250236,
+      "type": "dry"
+    },
+    "-OtxGi5GNKeNCzu6L2jG": {
+      "moisture": 9,
+      "timestamp": 1780218256795,
+      "type": "dry"
+    },
+    "-OtxGjh24p2Q2HWerfYt": {
+      "moisture": 9,
+      "timestamp": 1780218263356,
+      "type": "dry"
+    },
+    "-OtxGlIkQkk-Pa8LfPy2": {
+      "moisture": 9,
+      "timestamp": 1780218269916,
+      "type": "dry"
+    },
+    "-OtxGmuE4GCMy4YWLRc7": {
+      "moisture": 9,
+      "timestamp": 1780218276478,
+      "type": "dry"
+    },
+    "-OtxGoVO6ES6YqsEiTi_": {
+      "moisture": 9,
+      "timestamp": 1780218283037,
+      "type": "dry"
+    },
+    "-OtxGq7r7G-zc3UKk5u0": {
+      "moisture": 9,
+      "timestamp": 1780218289596,
+      "type": "dry"
+    },
+    "-OtxGrhGQ7pkY9BrP04Q": {
+      "moisture": 9,
+      "timestamp": 1780218296156,
+      "type": "dry"
+    },
+    "-OtxGtJEqhFHMLG4C3HB": {
+      "moisture": 9,
+      "timestamp": 1780218302717,
+      "type": "dry"
+    },
+    "-OtxGuv7kfPOFnlSml0Y": {
+      "moisture": 9,
+      "timestamp": 1780218309277,
+      "type": "dry"
+    },
+    "-OtxGwW-4XZFZ7-xzOt2": {
+      "moisture": 9,
+      "timestamp": 1780218315836,
+      "type": "dry"
+    },
+    "-OtxGy6Go6Oq7GR7gu24": {
+      "moisture": 9,
+      "timestamp": 1780218322397,
+      "type": "dry"
+    },
+    "-OtxGzhoJP7zUF09rw6M": {
+      "moisture": 9,
+      "timestamp": 1780218328957,
+      "type": "dry"
+    },
+    "-OtxH0JS6NHKH4h6CO8W": {
+      "moisture": 9,
+      "timestamp": 1780218335517,
+      "type": "dry"
+    },
+    "-OtxH1uumASD8YdWuyUI": {
+      "moisture": 9,
+      "timestamp": 1780218342076,
+      "type": "dry"
+    },
+    "-OtxH3XBi7rlt-lyDkYz": {
+      "moisture": 9,
+      "timestamp": 1780218348636,
+      "type": "dry"
+    },
+    "-OtxH5744DspmR4qfFEI": {
+      "moisture": 9,
+      "timestamp": 1780218355197,
+      "type": "dry"
+    },
+    "-OtxH6iKmoGZuSV21hXZ": {
+      "moisture": 10,
+      "timestamp": 1780218361757,
+      "type": "dry"
+    },
+    "-OtxH8JzKdWDzyr_czRb": {
+      "moisture": 9,
+      "timestamp": 1780218368321,
+      "type": "dry"
+    },
+    "-OtxH9v1dQWQyv0vq7NJ": {
+      "moisture": 10,
+      "timestamp": 1780218374881,
+      "type": "dry"
+    },
+    "-OtxHBX541C_NixH6EAi": {
+      "moisture": 10,
+      "timestamp": 1780218381442,
+      "type": "dry"
+    },
+    "-OtxHD7SckBa0CAf5tYL": {
+      "moisture": 10,
+      "timestamp": 1780218388006,
+      "type": "dry"
+    },
+    "-OtxHEjDQ4RbNLYwffG8": {
+      "moisture": 10,
+      "timestamp": 1780218394567,
+      "type": "dry"
+    },
+    "-OtxHGKkkIZIYqVUTpqv": {
+      "moisture": 10,
+      "timestamp": 1780218401129,
+      "type": "dry"
+    },
+    "-OtxHHw4D7Czq46KZthQ": {
+      "moisture": 10,
+      "timestamp": 1780218407691,
+      "type": "dry"
+    },
+    "-OtxHJXTmUE9cicyLj8Y": {
+      "moisture": 10,
+      "timestamp": 1780218414253,
+      "type": "dry"
+    },
+    "-OtxHL7nz7sSYcZL40AA": {
+      "moisture": 10,
+      "timestamp": 1780218420816,
+      "type": "dry"
+    },
+    "-OtxHMjdc91W67VxcUVI": {
+      "moisture": 10,
+      "timestamp": 1780218427378,
+      "type": "dry"
+    },
+    "-OtxHOLF3I5DyB1mTcAQ": {
+      "moisture": 10,
+      "timestamp": 1780218433940,
+      "type": "dry"
+    },
+    "-OtxHPxtANM6hIh_0CNZ": {
+      "moisture": 10,
+      "timestamp": 1780218440502,
+      "type": "dry"
+    },
+    "-OtxHRY9uRM7SD9aePiT": {
+      "moisture": 10,
+      "timestamp": 1780218447063,
+      "type": "dry"
+    },
+    "-OtxHT8faz8eaD4C9PTz": {
+      "moisture": 10,
+      "timestamp": 1780218453626,
+      "type": "dry"
+    },
+    "-OtxHUjxCiWQJ18pPTzj": {
+      "moisture": 10,
+      "timestamp": 1780218460188,
+      "type": "dry"
+    },
+    "-OtxHWLu1Qj_Dc9bPHvk": {
+      "moisture": 10,
+      "timestamp": 1780218466750,
+      "type": "dry"
+    },
+    "-OtxHXxNXsOH1lymDOs0": {
+      "moisture": 10,
+      "timestamp": 1780218473311,
+      "type": "dry"
+    },
+    "-OtxHZYmAP5Z03_IXppW": {
+      "moisture": 10,
+      "timestamp": 1780218479874,
+      "type": "dry"
+    },
+    "-OtxHaA15PPL4aDTFHZr": {
+      "moisture": 10,
+      "timestamp": 1780218486437,
+      "type": "dry"
+    },
+    "-OtxHblT2gdpD4SUWmF2": {
+      "moisture": 10,
+      "timestamp": 1780218492998,
+      "type": "dry"
+    },
+    "-OtxHdN4UJto3uh9PXZn": {
+      "moisture": 10,
+      "timestamp": 1780218499560,
+      "type": "dry"
+    },
+    "-OtxHey8NyIydo9nCgXo": {
+      "moisture": 10,
+      "timestamp": 1780218506122,
+      "type": "dry"
+    },
+    "-Ou7jcz_dkFQv_N65NKq": {
+      "moisture": 13,
+      "timestamp": 1780410647872,
+      "type": "dry"
+    },
+    "-OuCa0vWWE4C-XMsHaCG": {
+      "moisture": 3,
+      "timestamp": 1780492016677,
+      "type": "dry"
+    },
+    "-OuCaJZtSfOLK6aanUMa": {
+      "moisture": 0,
+      "timestamp": 1780492093652,
+      "type": "metal"
+    },
+    "-OuCaRHKgDKoJbBSiTFy": {
+      "moisture": 0,
+      "timestamp": 1780492125226,
+      "type": "metal"
+    },
+    "-OuCammfl78UJlnl6kQN": {
+      "moisture": 0,
+      "timestamp": 1780492217406,
+      "type": "metal"
+    },
+    "-OuCar7eDJyi-z5uQcQk": {
+      "moisture": 9,
+      "timestamp": 1780492235201,
+      "type": "dry"
+    },
+    "-OuCayMaqPkQD-1keUBw": {
+      "moisture": 0,
+      "timestamp": 1780492264840,
+      "type": "metal"
+    },
+    "-OuCb1hLDhM4n0a_ucmU": {
+      "moisture": 0,
+      "timestamp": 1780492282614,
+      "type": "metal"
+    },
+    "-OuCbKGNwzdGKwQWhvuQ": {
+      "moisture": 9,
+      "timestamp": 1780492358613,
+      "type": "dry"
+    },
+    "-OuCbLrCeXA_tZgqsI9I": {
+      "moisture": 9,
+      "timestamp": 1780492365173,
+      "type": "dry"
+    },
+    "-OuCbR2kySmKgmj7_vnc": {
+      "moisture": 9,
+      "timestamp": 1780492386433,
+      "type": "dry"
+    },
+    "-OuCbvO-TJspSdmyUKFZ": {
+      "moisture": 0,
+      "timestamp": 1780492514781,
+      "type": "metal"
+    },
+    "-OuCc1VtNv0G4itsmlwT": {
+      "moisture": 0,
+      "timestamp": 1780492543955,
+      "type": "metal"
+    },
+    "-OuCcEcy29tOnB1X11Wf": {
+      "moisture": 0,
+      "timestamp": 1780492597732,
+      "type": "metal"
+    },
+    "-OuCcOAiqYcYaKiL9kxH": {
+      "moisture": 0,
+      "timestamp": 1780492636807,
+      "type": "metal"
+    },
+    "-OuCcY0VPAOKWz1XJ4vy": {
+      "moisture": 0,
+      "timestamp": 1780492677083,
+      "type": "metal"
+    },
+    "-OuCcg1iDLHHqgNTu0hK": {
+      "moisture": 0,
+      "timestamp": 1780492714059,
+      "type": "metal"
+    },
+    "-OuCcrBN7vGWKpqPv_5W": {
+      "moisture": 0,
+      "timestamp": 1780492759736,
+      "type": "metal"
+    },
+    "-OuCcvpJW5SUbUhpAHFg": {
+      "moisture": 10,
+      "timestamp": 1780492778733,
+      "type": "dry"
+    },
+    "-OuCcxQjsk1IFwxKxth_": {
+      "moisture": 10,
+      "timestamp": 1780492785294,
+      "type": "dry"
+    },
+    "-OuCcynzHtkenBN5lldJ": {
+      "moisture": 0,
+      "timestamp": 1780492790932,
+      "type": "metal"
+    },
+    "-OuCd6OY2U46GMERg0AZ": {
+      "moisture": 0,
+      "timestamp": 1780492826109,
+      "type": "metal"
+    },
+    "-OuCd9wC3x5Rgst6-YoF": {
+      "moisture": 10,
+      "timestamp": 1780492840605,
+      "type": "dry"
+    },
+    "-OuCdBXpHZOpnCC4DHNU": {
+      "moisture": 10,
+      "timestamp": 1780492847166,
+      "type": "dry"
+    },
+    "-OuCdKEJRGzSk6hMJFCr": {
+      "moisture": 0,
+      "timestamp": 1780492882808,
+      "type": "metal"
+    },
+    "-OuCdO8ICsziwDHFINuT": {
+      "moisture": 10,
+      "timestamp": 1780492898805,
+      "type": "dry"
+    },
+    "-OuCdXMFwq8LaVgvRjab": {
+      "moisture": 0,
+      "timestamp": 1780492936548,
+      "type": "metal"
+    },
+    "-OuCd_tasWL4G6uX_t7g": {
+      "moisture": 10,
+      "timestamp": 1780492951046,
+      "type": "dry"
+    },
+    "-OuCdbVGssx3L7yMs-R0": {
+      "moisture": 10,
+      "timestamp": 1780492957607,
+      "type": "dry"
+    },
+    "-OuCdd5gh6cKQoEiNxKw": {
+      "moisture": 10,
+      "timestamp": 1780492964169,
+      "type": "dry"
+    },
+    "-OuCduaUiHEqxtQLFNt2": {
+      "moisture": 0,
+      "timestamp": 1780493035815,
+      "type": "metal"
+    },
+    "-OuCe74j-PJz2yilN0gM": {
+      "moisture": 0,
+      "timestamp": 1780493091094,
+      "type": "metal"
+    },
+    "-OuCecPvnXKV7dDWEy7E": {
+      "moisture": 11,
+      "timestamp": 1780493223502,
+      "type": "dry"
+    },
+    "-OuCegVZMouvmdahDcCG": {
+      "moisture": 0,
+      "timestamp": 1780493240243,
+      "type": "metal"
+    },
+    "-OuCepf_V9I0hQRmnLzJ": {
+      "moisture": 0,
+      "timestamp": 1780493277820,
+      "type": "metal"
+    },
+    "-OuCf-0fmI03g_6OeoUT": {
+      "moisture": 0,
+      "timestamp": 1780493320197,
+      "type": "metal"
+    },
+    "-OuCfCXWTShI9HsNQE7H": {
+      "moisture": 15,
+      "timestamp": 1780493375498,
+      "type": "dry"
+    },
+    "-OuCfKuOIUoEBbTbYksQ": {
+      "moisture": 15,
+      "timestamp": 1780493409663,
+      "type": "dry"
+    },
+    "-OuCfMT8Pg8TXaEUrio8": {
+      "moisture": 15,
+      "timestamp": 1780493416225,
+      "type": "dry"
+    },
+    "-OuCfO3igYSDnhZc0TSL": {
+      "moisture": 15,
+      "timestamp": 1780493422787,
+      "type": "dry"
+    },
+    "-OuCfT6gsfZQTEI9FjDg": {
+      "moisture": 15,
+      "timestamp": 1780493443450,
+      "type": "dry"
+    },
+    "-OuCf_rqzdmkLdnZfje_": {
+      "moisture": 15,
+      "timestamp": 1780493475214,
+      "type": "dry"
+    },
+    "-OuCfbT_kA6lf5k8zAQo": {
+      "moisture": 15,
+      "timestamp": 1780493481777,
+      "type": "dry"
+    },
+    "-OuCfd40I2l9pg8nhgyL": {
+      "moisture": 15,
+      "timestamp": 1780493488339,
+      "type": "dry"
+    },
+    "-OuCflcs49Svekl2q0hY": {
+      "moisture": 16,
+      "timestamp": 1780493523403,
+      "type": "dry"
+    },
+    "-OuCfpsBcjtYoilEt9NE": {
+      "moisture": 100,
+      "timestamp": 1780493540768,
+      "type": "wet"
+    },
+    "-OuCftPP649CGiZHW2vx": {
+      "moisture": 100,
+      "timestamp": 1780493555250,
+      "type": "wet"
+    },
+    "-OuCg0qp6wZgUyWobODr": {
+      "moisture": 76,
+      "timestamp": 1780493589833,
+      "type": "wet"
+    },
+    "-OuCg4O2CxewMEXwtfbe": {
+      "moisture": 76,
+      "timestamp": 1780493604314,
+      "type": "wet"
+    },
+    "-OuCg7vUJXBJeMmpqgjr": {
+      "moisture": 26,
+      "timestamp": 1780493618796,
+      "type": "wet"
+    },
+    "-OuCgGRPTmS3TkCcyENW": {
+      "moisture": 61,
+      "timestamp": 1780493653678,
+      "type": "wet"
+    },
+    "-OuCgMzKoiuqrFWR7Lz4": {
+      "moisture": 68,
+      "timestamp": 1780493680461,
+      "type": "wet"
+    },
+    "-OuCgQWBF5YviVCh0ZE0": {
+      "moisture": 87,
+      "timestamp": 1780493694942,
+      "type": "wet"
+    },
+    "-OuCgX7FZwfl0YqehhVl": {
+      "moisture": 38,
+      "timestamp": 1780493722025,
+      "type": "wet"
+    },
+    "-OuCgcIZXEcqFyI9mkVH": {
+      "moisture": 79,
+      "timestamp": 1780493747308,
+      "type": "wet"
+    },
+    "-OuCgfphYheSZEukGbS1": {
+      "moisture": 89,
+      "timestamp": 1780493761791,
+      "type": "wet"
+    },
+    "-OuCglC6VsHaxxNMh7U_": {
+      "moisture": 38,
+      "timestamp": 1780493783773,
+      "type": "wet"
+    },
+    "-OuCgrWd_u3TZg3YlnIj": {
+      "moisture": 77,
+      "timestamp": 1780493809657,
+      "type": "wet"
+    },
+    "-OuCgv2qMeSj9fgRzj6v": {
+      "moisture": 24,
+      "timestamp": 1780493824139,
+      "type": "wet"
+    },
+    "-OuCh0xmqqqtq5NcFefy": {
+      "moisture": 70,
+      "timestamp": 1780493852422,
+      "type": "wet"
+    },
+    "-OuCh4V-ZZTxZxX-GEip": {
+      "moisture": 20,
+      "timestamp": 1780493866905,
+      "type": "dry"
+    },
+    "-OuChA7iRw0Ik0MswmQ5": {
+      "moisture": 71,
+      "timestamp": 1780493889969,
+      "type": "wet"
+    },
+    "-OuChDekbtPEsIfh_lMT": {
+      "moisture": 78,
+      "timestamp": 1780493904452,
+      "type": "wet"
+    },
+    "-OuChHHAmlV5IGHyWJpi": {
+      "moisture": 16,
+      "timestamp": 1780493919234,
+      "type": "dry"
+    },
+    "-OuChIsK0SxwQaLSnR11": {
+      "moisture": 16,
+      "timestamp": 1780493925797,
+      "type": "dry"
+    },
+    "-OuChNYoJNoH_7jPcVLM": {
+      "moisture": 46,
+      "timestamp": 1780493944961,
+      "type": "wet"
+    },
+    "-OuChR51DyPqjQuFNe4w": {
+      "moisture": 16,
+      "timestamp": 1780493959443,
+      "type": "dry"
+    },
+    "-OuChYC2w114Afm7vsco": {
+      "moisture": 70,
+      "timestamp": 1780493988509,
+      "type": "wet"
+    },
+    "-OuChaiFWO_Wbl7N8_bd": {
+      "moisture": 66,
+      "timestamp": 1780494002991,
+      "type": "wet"
+    },
+    "-OuCheFd4ZGV6JfZtlww": {
+      "moisture": 52,
+      "timestamp": 1780494017474,
+      "type": "wet"
+    },
+    "-OuChkiYofEjfaxiMcA2": {
+      "moisture": 14,
+      "timestamp": 1780494043957,
+      "type": "dry"
+    },
+    "-OuChmJzgA4Tur8EEPKM": {
+      "moisture": 26,
+      "timestamp": 1780494050520,
+      "type": "wet"
+    },
+    "-OuChsCOim9E_USD8Ojn": {
+      "moisture": 31,
+      "timestamp": 1780494074603,
+      "type": "wet"
+    },
+    "-OuChwPs2LpK46RZoXjs": {
+      "moisture": 13,
+      "timestamp": 1780494091786,
+      "type": "dry"
+    },
+    "-OuChy_tY7xZ6XjvlDyR": {
+      "moisture": 13,
+      "timestamp": 1780494100749,
+      "type": "dry"
+    },
+    "-OuCi-Kj5KC1rWFq1zUS": {
+      "moisture": 13,
+      "timestamp": 1780494107913,
+      "type": "dry"
+    },
+    "-OuCi3UHODQ9GWnWM5DU": {
+      "moisture": 51,
+      "timestamp": 1780494124677,
+      "type": "wet"
+    },
+    "-OuCi6xy1i16plRgX2HL": {
+      "moisture": 65,
+      "timestamp": 1780494139159,
+      "type": "wet"
+    },
+    "-OuCiAV6Bp4oic8zc-_I": {
+      "moisture": 13,
+      "timestamp": 1780494153641,
+      "type": "dry"
+    },
+    "-OuCiC5yA6J5nRWqOyzq": {
+      "moisture": 12,
+      "timestamp": 1780494160205,
+      "type": "dry"
+    },
+    "-OuCiDhOaAlzDAIdxTBQ": {
+      "moisture": 12,
+      "timestamp": 1780494166768,
+      "type": "dry"
+    },
+    "-OuCiFJ5WYVg63xfQPlD": {
+      "moisture": 12,
+      "timestamp": 1780494173331,
+      "type": "dry"
+    },
+    "-OuCiGuYnRDoV8uv6O9k": {
+      "moisture": 12,
+      "timestamp": 1780494179894,
+      "type": "dry"
+    },
+    "-OuCiLRR8OxX4vUEtiQB": {
+      "moisture": 12,
+      "timestamp": 1780494198458,
+      "type": "dry"
+    },
+    "-OuCiTqzp1NZ3l1jFrfb": {
+      "moisture": 55,
+      "timestamp": 1780494232924,
+      "type": "wet"
+    },
+    "-OuCiXOP9nccOQyvcEcZ": {
+      "moisture": 35,
+      "timestamp": 1780494247406,
+      "type": "wet"
+    },
+    "-OuCi_viMuKarIh_rAJy": {
+      "moisture": 58,
+      "timestamp": 1780494261889,
+      "type": "wet"
+    },
+    "-OuCidSv_OsyC7y8CK6P": {
+      "moisture": 52,
+      "timestamp": 1780494276371,
+      "type": "wet"
+    },
+    "-OuCih-I_G6AtKZj_z-v": {
+      "moisture": 60,
+      "timestamp": 1780494290853,
+      "type": "wet"
+    },
+    "-OuCikX__zCtlrOw4BkC": {
+      "moisture": 52,
+      "timestamp": 1780494305335,
+      "type": "wet"
+    },
+    "-OuCirxLz5nRAFQase4B": {
+      "moisture": 15,
+      "timestamp": 1780494335719,
+      "type": "dry"
+    },
+    "-OuCitYsnm36TZAD-6PN": {
+      "moisture": 12,
+      "timestamp": 1780494342282,
+      "type": "dry"
+    },
+    "-OuCizzrUA1RMWC2GNQ1": {
+      "moisture": 17,
+      "timestamp": 1780494368647,
+      "type": "dry"
+    },
+    "-OuCj0aPl4Oc_uEK1uXJ": {
+      "moisture": 26,
+      "timestamp": 1780494375211,
+      "type": "wet"
+    },
+    "-OuCj47i0mk3iKILgolJ": {
+      "moisture": 13,
+      "timestamp": 1780494389692,
+      "type": "dry"
+    },
+    "-OuCj7Cbo0ZRlhLZ521k": {
+      "moisture": 23,
+      "timestamp": 1780494402256,
+      "type": "wet"
+    },
+    "-OuCjAjZRxa4p3jxa1Yz": {
+      "moisture": 18,
+      "timestamp": 1780494416739,
+      "type": "dry"
+    },
+    "-OuCjCKnaNSFYomryCXM": {
+      "moisture": 20,
+      "timestamp": 1780494423302,
+      "type": "dry"
+    },
+    "-OuCjDwIlZTQM2Tya6bM": {
+      "moisture": 21,
+      "timestamp": 1780494429865,
+      "type": "wet"
+    },
+    "-OuCjHcCjggQN-gBqm-r": {
+      "moisture": 23,
+      "timestamp": 1780494444947,
+      "type": "wet"
+    },
+    "-OuCjL9SGaM1Q_M5D3qK": {
+      "moisture": 27,
+      "timestamp": 1780494459430,
+      "type": "wet"
+    },
+    "-OuCjOgf3idYhr8uebqN": {
+      "moisture": 21,
+      "timestamp": 1780494473912,
+      "type": "wet"
+    },
+    "-OuCjSE1TVftYsSIX8rn": {
+      "moisture": 15,
+      "timestamp": 1780494488395,
+      "type": "dry"
+    },
+    "-OuCjZKB6Tfzy19LOhD9": {
+      "moisture": 22,
+      "timestamp": 1780494517460,
+      "type": "wet"
+    },
+    "-OuCjdbxdnb265amU5-0": {
+      "moisture": 23,
+      "timestamp": 1780494539143,
+      "type": "wet"
+    },
+    "-OuCjhDpTmzDo01Kfou1": {
+      "moisture": 53,
+      "timestamp": 1780494553925,
+      "type": "wet"
+    },
+    "-OuCjldU4WNWMO7lqVLa": {
+      "moisture": 25,
+      "timestamp": 1780494572008,
+      "type": "wet"
+    },
+    "-OuCjsOte7QyCqsjkPzC": {
+      "moisture": 44,
+      "timestamp": 1780494599691,
+      "type": "wet"
+    },
+    "-OuCjzt9qmowcywmmqCa": {
+      "moisture": 11,
+      "timestamp": 1780494630375,
+      "type": "dry"
+    },
+    "-OuCk3mlW7p4ZJsc_Zsm": {
+      "moisture": 35,
+      "timestamp": 1780494650439,
+      "type": "wet"
+    },
+    "-OuCkBdbUSHEuV413z-j": {
+      "moisture": 59,
+      "timestamp": 1780494682623,
+      "type": "wet"
+    },
+    "-OuCkHmaYOOIGfr3nXfW": {
+      "moisture": 11,
+      "timestamp": 1780494707606,
+      "type": "dry"
+    },
+    "-OuCkJLc7WHy1Br8zaGy": {
+      "moisture": 11,
+      "timestamp": 1780494714169,
+      "type": "dry"
+    },
+    "-OuCkNI6lctpwCULRLgF": {
+      "moisture": 49,
+      "timestamp": 1780494730333,
+      "type": "wet"
+    },
+    "-OuCkRQ5YAzBQ837zkkv": {
+      "moisture": 69,
+      "timestamp": 1780494747216,
+      "type": "wet"
+    },
+    "-OuCkUxKcI8zJg_aExcQ": {
+      "moisture": 76,
+      "timestamp": 1780494761698,
+      "type": "wet"
+    },
+    "-OuCkYUNbrdUcypgj0GQ": {
+      "moisture": 11,
+      "timestamp": 1780494776181,
+      "type": "dry"
+    },
+    "-OuCk_kR3WYcdoOWjaTg": {
+      "moisture": 58,
+      "timestamp": 1780494785144,
+      "type": "wet"
+    },
+    "-OuCkeyO_AvFChClz7IY": {
+      "moisture": 11,
+      "timestamp": 1780494806827,
+      "type": "dry"
+    },
+    "-OuCkgdhOPz_dJQ-SDrp": {
+      "moisture": 11,
+      "timestamp": 1780494813690,
+      "type": "dry"
+    },
+    "-OuCkkDuNWVusVikFo0n": {
+      "moisture": 34,
+      "timestamp": 1780494828354,
+      "type": "wet"
+    },
+    "-OuCknktuRYrNzSHncVr": {
+      "moisture": 12,
+      "timestamp": 1780494842836,
+      "type": "dry"
+    },
+    "-OuCkr7DtQBPduDbr7wT": {
+      "moisture": 11,
+      "timestamp": 1780494856600,
+      "type": "dry"
+    },
+    "-OuCkvVutrGsRIHEL7Xg": {
+      "moisture": 24,
+      "timestamp": 1780494874564,
+      "type": "wet"
+    },
+    "-OuCl0pH2Y2UxZYxtxir": {
+      "moisture": 11,
+      "timestamp": 1780494900447,
+      "type": "dry"
+    },
+    "-OuCl2QpqXGQGtcWn5XH": {
+      "moisture": 11,
+      "timestamp": 1780494907010,
+      "type": "dry"
+    },
+    "-OuCl46BO4d918M1GJUh": {
+      "moisture": 53,
+      "timestamp": 1780494913874,
+      "type": "wet"
+    },
+    "-OuCl84Vi88PZ6XWymW9": {
+      "moisture": 50,
+      "timestamp": 1780494930156,
+      "type": "wet"
+    },
+    "-OuClCVBmk52EkuV7NQs": {
+      "moisture": 76,
+      "timestamp": 1780494948239,
+      "type": "wet"
+    },
+    "-OuClHQVls7A0T5lO4s1": {
+      "moisture": 11,
+      "timestamp": 1780494968422,
+      "type": "dry"
+    },
+    "-OuClJT6F2ZxOxc8Qc-a": {
+      "moisture": 72,
+      "timestamp": 1780494976785,
+      "type": "wet"
+    },
+    "-OuClNWBDIoOnPbWiNXh": {
+      "moisture": 11,
+      "timestamp": 1780494993368,
+      "type": "dry"
+    },
+    "-OuClP6gONgZxdR-Twjs": {
+      "moisture": 47,
+      "timestamp": 1780494999931,
+      "type": "wet"
+    },
+    "-OuClSeWJrvnyWeW5Np4": {
+      "moisture": 57,
+      "timestamp": 1780495014414,
+      "type": "wet"
+    },
+    "-OuClWcadDxpT8ne6Rkn": {
+      "moisture": 12,
+      "timestamp": 1780495030696,
+      "type": "dry"
+    },
+    "-OuClbFdo9ZWKA7kulJd": {
+      "moisture": 11,
+      "timestamp": 1780495053760,
+      "type": "dry"
+    },
+    "-OuCliLr4jaJWTWWUi7w": {
+      "moisture": 46,
+      "timestamp": 1780495082825,
+      "type": "wet"
+    },
+    "-OuClmzhTUtW16wQnIYN": {
+      "moisture": 61,
+      "timestamp": 1780495101808,
+      "type": "wet"
+    },
+    "-OuClrTdSJGsnkQuxy9I": {
+      "moisture": 29,
+      "timestamp": 1780495120191,
+      "type": "wet"
+    },
+    "-OuCm-_UlXSich0bJI4S": {
+      "moisture": 11,
+      "timestamp": 1780495157475,
+      "type": "dry"
+    },
+    "-OuCm6JCOSNtDkenRlJX": {
+      "moisture": 11,
+      "timestamp": 1780495184740,
+      "type": "dry"
+    },
+    "-OuCm8i99_SdCSbbFnYJ": {
+      "moisture": 11,
+      "timestamp": 1780495194904,
+      "type": "dry"
+    },
+    "-OuCmCE1OsabBiOdu0sF": {
+      "moisture": 11,
+      "timestamp": 1780495209268,
+      "type": "dry"
+    },
+    "-OuCmGg4cOgJPRpHkhrv": {
+      "moisture": 12,
+      "timestamp": 1780495227532,
+      "type": "dry"
+    },
+    "-OuCmJKj339ZhoWK12IZ": {
+      "moisture": 12,
+      "timestamp": 1780495238295,
+      "type": "dry"
+    },
+    "-OuCmModNQlXX1rhrJqd": {
+      "moisture": 100,
+      "timestamp": 1780495252660,
+      "type": "wet"
+    },
+    "-OuCmSh0U9M3_XvSqUAs": {
+      "moisture": 20,
+      "timestamp": 1780495276743,
+      "type": "dry"
+    },
+    "-OuCmVFTWMOL2z-1AWNA": {
+      "moisture": 16,
+      "timestamp": 1780495287207,
+      "type": "dry"
+    },
+    "-OuCm_HNBhOEn8tjZBfi": {
+      "moisture": 68,
+      "timestamp": 1780495307571,
+      "type": "wet"
+    },
+    "-OuCmctwWv-j7dn9oKtH": {
+      "moisture": 65,
+      "timestamp": 1780495322353,
+      "type": "wet"
+    },
+    "-OuCmhOaSFE-YuWJmeiC": {
+      "moisture": 17,
+      "timestamp": 1780495341036,
+      "type": "dry"
+    },
+    "-OuCmj3gDV7JtemZiS8C": {
+      "moisture": 42,
+      "timestamp": 1780495347900,
+      "type": "wet"
+    },
+    "-OuCmmp9xo38rHRDX3pH": {
+      "moisture": 23,
+      "timestamp": 1780495363282,
+      "type": "wet"
+    },
+    "-OuCmtnfSrnUjr1r307i": {
+      "moisture": 50,
+      "timestamp": 1780495391865,
+      "type": "wet"
+    },
+    "-OuCn-qudXBjB_v2Q_hs": {
+      "moisture": 39,
+      "timestamp": 1780495420749,
+      "type": "wet"
+    }
+  },
+  "rag_knowledge_base": [
+    {
+      "category": "Cẩm nang phân loại rác thải tại nguồn",
+      "content": "Bài viết này cung cấp cẩm nang chi tiết về cách xử lý Cách phân loại rác thải nhựa tái chế. Phân loại đúng nguồn giúp tăng hiệu quả tái chế lên 80% và giảm ô nhiễm môi trường.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Cách phân loại rác thải nhựa tái chế giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Cách phân loại rác thải nhựa tái chế cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-001",
+      "title": "Cách phân loại rác thải nhựa tái chế"
+    },
+    {
+      "category": "Cẩm nang phân loại rác thải tại nguồn",
+      "content": "Hướng dẫn chi tiết về Quy trình xử lý rác thải hữu cơ tại nhà. Đây là nhóm rác phổ biến cần được gom tách biệt để tránh gây ô nhiễm chéo và tạo thuận lợi cho các nhà máy xử lý rác thông minh.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Quy trình xử lý rác thải hữu cơ tại nhà giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Quy trình xử lý rác thải hữu cơ tại nhà cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-002",
+      "title": "Quy trình xử lý rác thải hữu cơ tại nhà"
+    },
+    {
+      "category": "Cẩm nang phân loại rác thải tại nguồn",
+      "content": "Bài viết này cung cấp cẩm nang chi tiết về cách xử lý Rác thải kim loại và cách thu gom an toàn. Phân loại đúng nguồn giúp tăng hiệu quả tái chế lên 80% và giảm ô nhiễm môi trường.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Rác thải kim loại và cách thu gom an toàn giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Rác thải kim loại và cách thu gom an toàn cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-003",
+      "title": "Rác thải kim loại và cách thu gom an toàn"
+    },
+    {
+      "category": "Cẩm nang phân loại rác thải tại nguồn",
+      "content": "Hướng dẫn chi tiết về Phương pháp phân loại rác khô hiệu quả. Đây là nhóm rác phổ biến cần được gom tách biệt để tránh gây ô nhiễm chéo và tạo thuận lợi cho các nhà máy xử lý rác thông minh.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Phương pháp phân loại rác khô hiệu quả giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Phương pháp phân loại rác khô hiệu quả cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-004",
+      "title": "Phương pháp phân loại rác khô hiệu quả"
+    },
+    {
+      "category": "Cẩm nang phân loại rác thải tại nguồn",
+      "content": "Bài viết này cung cấp cẩm nang chi tiết về cách xử lý Rác thải ướt nhà bếp và cách giảm thiểu. Phân loại đúng nguồn giúp tăng hiệu quả tái chế lên 80% và giảm ô nhiễm môi trường.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Rác thải ướt nhà bếp và cách giảm thiểu giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Rác thải ướt nhà bếp và cách giảm thiểu cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-005",
+      "title": "Rác thải ướt nhà bếp và cách giảm thiểu"
+    },
+    {
+      "category": "Cẩm nang phân loại rác thải tại nguồn",
+      "content": "Hướng dẫn chi tiết về Tác hại khi phân loại sai rác thải điện tử. Đây là nhóm rác phổ biến cần được gom tách biệt để tránh gây ô nhiễm chéo và tạo thuận lợi cho các nhà máy xử lý rác thông minh.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Tác hại khi phân loại sai rác thải điện tử giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Tác hại khi phân loại sai rác thải điện tử cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-006",
+      "title": "Tác hại khi phân loại sai rác thải điện tử"
+    },
+    {
+      "category": "Cẩm nang phân loại rác thải tại nguồn",
+      "content": "Bài viết này cung cấp cẩm nang chi tiết về cách xử lý Hướng dẫn thu gom pin cũ bảo vệ nguồn nước. Phân loại đúng nguồn giúp tăng hiệu quả tái chế lên 80% và giảm ô nhiễm môi trường.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Hướng dẫn thu gom pin cũ bảo vệ nguồn nước giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Hướng dẫn thu gom pin cũ bảo vệ nguồn nước cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-007",
+      "title": "Hướng dẫn thu gom pin cũ bảo vệ nguồn nước"
+    },
+    {
+      "category": "Cẩm nang phân loại rác thải tại nguồn",
+      "content": "Hướng dẫn chi tiết về Phân biệt rác thải nguy hại và rác thông thường. Đây là nhóm rác phổ biến cần được gom tách biệt để tránh gây ô nhiễm chéo và tạo thuận lợi cho các nhà máy xử lý rác thông minh.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Phân biệt rác thải nguy hại và rác thông thường giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Phân biệt rác thải nguy hại và rác thông thường cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-008",
+      "title": "Phân biệt rác thải nguy hại và rác thông thường"
+    },
+    {
+      "category": "Cẩm nang phân loại rác thải tại nguồn",
+      "content": "Bài viết này cung cấp cẩm nang chi tiết về cách xử lý Cách làm sạch chai lọ nhựa trước khi tái chế. Phân loại đúng nguồn giúp tăng hiệu quả tái chế lên 80% và giảm ô nhiễm môi trường.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Cách làm sạch chai lọ nhựa trước khi tái chế giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Cách làm sạch chai lọ nhựa trước khi tái chế cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-009",
+      "title": "Cách làm sạch chai lọ nhựa trước khi tái chế"
+    },
+    {
+      "category": "Cẩm nang phân loại rác thải tại nguồn",
+      "content": "Hướng dẫn chi tiết về Quy tắc phân loại giấy vụn và bìa carton. Đây là nhóm rác phổ biến cần được gom tách biệt để tránh gây ô nhiễm chéo và tạo thuận lợi cho các nhà máy xử lý rác thông minh.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Quy tắc phân loại giấy vụn và bìa carton giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Quy tắc phân loại giấy vụn và bìa carton cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-010",
+      "title": "Quy tắc phân loại giấy vụn và bìa carton"
+    },
+    {
+      "category": "Cẩm nang phân loại rác thải tại nguồn",
+      "content": "Bài viết này cung cấp cẩm nang chi tiết về cách xử lý Cách xử lý bóng đèn huỳnh quang hỏng. Phân loại đúng nguồn giúp tăng hiệu quả tái chế lên 80% và giảm ô nhiễm môi trường.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Cách xử lý bóng đèn huỳnh quang hỏng giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Cách xử lý bóng đèn huỳnh quang hỏng cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-011",
+      "title": "Cách xử lý bóng đèn huỳnh quang hỏng"
+    },
+    {
+      "category": "Cẩm nang phân loại rác thải tại nguồn",
+      "content": "Hướng dẫn chi tiết về Mẹo nhỏ phân loại rác y tế gia đình. Đây là nhóm rác phổ biến cần được gom tách biệt để tránh gây ô nhiễm chéo và tạo thuận lợi cho các nhà máy xử lý rác thông minh.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Mẹo nhỏ phân loại rác y tế gia đình giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Mẹo nhỏ phân loại rác y tế gia đình cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-012",
+      "title": "Mẹo nhỏ phân loại rác y tế gia đình"
+    },
+    {
+      "category": "Cẩm nang phân loại rác thải tại nguồn",
+      "content": "Bài viết này cung cấp cẩm nang chi tiết về cách xử lý Tái chế rác thải thủy tinh đúng cách. Phân loại đúng nguồn giúp tăng hiệu quả tái chế lên 80% và giảm ô nhiễm môi trường.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Tái chế rác thải thủy tinh đúng cách giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Tái chế rác thải thủy tinh đúng cách cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-013",
+      "title": "Tái chế rác thải thủy tinh đúng cách"
+    },
+    {
+      "category": "Cẩm nang phân loại rác thải tại nguồn",
+      "content": "Hướng dẫn chi tiết về Vì sao không nên trộn lẫn rác khô và rác ướt. Đây là nhóm rác phổ biến cần được gom tách biệt để tránh gây ô nhiễm chéo và tạo thuận lợi cho các nhà máy xử lý rác thông minh.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Vì sao không nên trộn lẫn rác khô và rác ướt giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Vì sao không nên trộn lẫn rác khô và rác ướt cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-014",
+      "title": "Vì sao không nên trộn lẫn rác khô và rác ướt"
+    },
+    {
+      "category": "Cẩm nang phân loại rác thải tại nguồn",
+      "content": "Bài viết này cung cấp cẩm nang chi tiết về cách xử lý Cách phân loại quần áo cũ và vải thừa. Phân loại đúng nguồn giúp tăng hiệu quả tái chế lên 80% và giảm ô nhiễm môi trường.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Cách phân loại quần áo cũ và vải thừa giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Cách phân loại quần áo cũ và vải thừa cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-015",
+      "title": "Cách phân loại quần áo cũ và vải thừa"
+    },
+    {
+      "category": "Cẩm nang phân loại rác thải tại nguồn",
+      "content": "Hướng dẫn chi tiết về Tác hại của dầu ăn thừa đổ trực tiếp ra cống. Đây là nhóm rác phổ biến cần được gom tách biệt để tránh gây ô nhiễm chéo và tạo thuận lợi cho các nhà máy xử lý rác thông minh.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Tác hại của dầu ăn thừa đổ trực tiếp ra cống giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Tác hại của dầu ăn thừa đổ trực tiếp ra cống cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-016",
+      "title": "Tác hại của dầu ăn thừa đổ trực tiếp ra cống"
+    },
+    {
+      "category": "Cẩm nang phân loại rác thải tại nguồn",
+      "content": "Bài viết này cung cấp cẩm nang chi tiết về cách xử lý Quy trình gom rác thải cồng kềnh đô thị. Phân loại đúng nguồn giúp tăng hiệu quả tái chế lên 80% và giảm ô nhiễm môi trường.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Quy trình gom rác thải cồng kềnh đô thị giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Quy trình gom rác thải cồng kềnh đô thị cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-017",
+      "title": "Quy trình gom rác thải cồng kềnh đô thị"
+    },
+    {
+      "category": "Cẩm nang phân loại rác thải tại nguồn",
+      "content": "Hướng dẫn chi tiết về Cách phân loại vỏ hộp sữa giấy nhiều lớp. Đây là nhóm rác phổ biến cần được gom tách biệt để tránh gây ô nhiễm chéo và tạo thuận lợi cho các nhà máy xử lý rác thông minh.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Cách phân loại vỏ hộp sữa giấy nhiều lớp giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Cách phân loại vỏ hộp sữa giấy nhiều lớp cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-018",
+      "title": "Cách phân loại vỏ hộp sữa giấy nhiều lớp"
+    },
+    {
+      "category": "Cẩm nang phân loại rác thải tại nguồn",
+      "content": "Bài viết này cung cấp cẩm nang chi tiết về cách xử lý Mẹo giảm thiểu rác thải sinh hoạt mỗi ngày. Phân loại đúng nguồn giúp tăng hiệu quả tái chế lên 80% và giảm ô nhiễm môi trường.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Mẹo giảm thiểu rác thải sinh hoạt mỗi ngày giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Mẹo giảm thiểu rác thải sinh hoạt mỗi ngày cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-019",
+      "title": "Mẹo giảm thiểu rác thải sinh hoạt mỗi ngày"
+    },
+    {
+      "category": "Cẩm nang phân loại rác thải tại nguồn",
+      "content": "Hướng dẫn chi tiết về Vai trò của việc giáo dục phân loại rác cho trẻ. Đây là nhóm rác phổ biến cần được gom tách biệt để tránh gây ô nhiễm chéo và tạo thuận lợi cho các nhà máy xử lý rác thông minh.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Vai trò của việc giáo dục phân loại rác cho trẻ giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Vai trò của việc giáo dục phân loại rác cho trẻ cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-020",
+      "title": "Vai trò của việc giáo dục phân loại rác cho trẻ"
+    },
+    {
+      "category": "Thời gian phân hủy sinh học của vật liệu",
+      "content": "Nghiên cứu khoa học cho thấy Thời gian phân hủy của túi ni lông nhựa mất khoảng từ 100 đến 500 năm trong điều kiện tự nhiên. Việc hạn chế sử dụng là cực kỳ cấp bách.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Thời gian phân hủy của túi ni lông nhựa giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Thời gian phân hủy của túi ni lông nhựa cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-021",
+      "title": "Thời gian phân hủy của túi ni lông nhựa"
+    },
+    {
+      "category": "Thời gian phân hủy sinh học của vật liệu",
+      "content": "Bạn có biết Ống hút nhựa mất bao lâu để biến mất có thời gian tồn tại cực kỳ lâu dài, gây ảnh hưởng trực tiếp đến vi sinh vật đất và nguồn nước ngầm của chúng ta.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Ống hút nhựa mất bao lâu để biến mất giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Ống hút nhựa mất bao lâu để biến mất cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-022",
+      "title": "Ống hút nhựa mất bao lâu để biến mất"
+    },
+    {
+      "category": "Thời gian phân hủy sinh học của vật liệu",
+      "content": "Nghiên cứu khoa học cho thấy Quá trình phân hủy của vỏ lon nhôm mất khoảng từ 100 đến 500 năm trong điều kiện tự nhiên. Việc hạn chế sử dụng là cực kỳ cấp bách.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Quá trình phân hủy của vỏ lon nhôm giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Quá trình phân hủy của vỏ lon nhôm cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-023",
+      "title": "Quá trình phân hủy của vỏ lon nhôm"
+    },
+    {
+      "category": "Thời gian phân hủy sinh học của vật liệu",
+      "content": "Bạn có biết Thủy tinh mất hàng triệu năm để tự phân hủy có thời gian tồn tại cực kỳ lâu dài, gây ảnh hưởng trực tiếp đến vi sinh vật đất và nguồn nước ngầm của chúng ta.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Thủy tinh mất hàng triệu năm để tự phân hủy giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Thủy tinh mất hàng triệu năm để tự phân hủy cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-024",
+      "title": "Thủy tinh mất hàng triệu năm để tự phân hủy"
+    },
+    {
+      "category": "Thời gian phân hủy sinh học của vật liệu",
+      "content": "Nghiên cứu khoa học cho thấy Độ phân hủy sinh học của rác thải hữu cơ mất khoảng từ 100 đến 500 năm trong điều kiện tự nhiên. Việc hạn chế sử dụng là cực kỳ cấp bách.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Độ phân hủy sinh học của rác thải hữu cơ giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Độ phân hủy sinh học của rác thải hữu cơ cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-025",
+      "title": "Độ phân hủy sinh học của rác thải hữu cơ"
+    },
+    {
+      "category": "Thời gian phân hủy sinh học của vật liệu",
+      "content": "Bạn có biết Thời gian phân hủy của tã giấy dùng một lần có thời gian tồn tại cực kỳ lâu dài, gây ảnh hưởng trực tiếp đến vi sinh vật đất và nguồn nước ngầm của chúng ta.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Thời gian phân hủy của tã giấy dùng một lần giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Thời gian phân hủy của tã giấy dùng một lần cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-026",
+      "title": "Thời gian phân hủy của tã giấy dùng một lần"
+    },
+    {
+      "category": "Thời gian phân hủy sinh học của vật liệu",
+      "content": "Nghiên cứu khoa học cho thấy Khẩu trang y tế và gánh nặng phân hủy mất khoảng từ 100 đến 500 năm trong điều kiện tự nhiên. Việc hạn chế sử dụng là cực kỳ cấp bách.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Khẩu trang y tế và gánh nặng phân hủy giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Khẩu trang y tế và gánh nặng phân hủy cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-027",
+      "title": "Khẩu trang y tế và gánh nặng phân hủy"
+    },
+    {
+      "category": "Thời gian phân hủy sinh học của vật liệu",
+      "content": "Bạn có biết Hộp xốp đựng thức ăn mất bao lâu để rã cát có thời gian tồn tại cực kỳ lâu dài, gây ảnh hưởng trực tiếp đến vi sinh vật đất và nguồn nước ngầm của chúng ta.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Hộp xốp đựng thức ăn mất bao lâu để rã cát giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Hộp xốp đựng thức ăn mất bao lâu để rã cát cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-028",
+      "title": "Hộp xốp đựng thức ăn mất bao lâu để rã cát"
+    },
+    {
+      "category": "Thời gian phân hủy sinh học của vật liệu",
+      "content": "Nghiên cứu khoa học cho thấy Lốp xe cao su phế thải và bài toán phân hủy mất khoảng từ 100 đến 500 năm trong điều kiện tự nhiên. Việc hạn chế sử dụng là cực kỳ cấp bách.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Lốp xe cao su phế thải và bài toán phân hủy giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Lốp xe cao su phế thải và bài toán phân hủy cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-029",
+      "title": "Lốp xe cao su phế thải và bài toán phân hủy"
+    },
+    {
+      "category": "Thời gian phân hủy sinh học của vật liệu",
+      "content": "Bạn có biết Bàn chải đánh răng nhựa tồn tại bao lâu có thời gian tồn tại cực kỳ lâu dài, gây ảnh hưởng trực tiếp đến vi sinh vật đất và nguồn nước ngầm của chúng ta.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Bàn chải đánh răng nhựa tồn tại bao lâu giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Bàn chải đánh răng nhựa tồn tại bao lâu cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-030",
+      "title": "Bàn chải đánh răng nhựa tồn tại bao lâu"
+    },
+    {
+      "category": "Thời gian phân hủy sinh học của vật liệu",
+      "content": "Nghiên cứu khoa học cho thấy Thời gian phân hủy của tàn thuốc lá sinh hoạt mất khoảng từ 100 đến 500 năm trong điều kiện tự nhiên. Việc hạn chế sử dụng là cực kỳ cấp bách.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Thời gian phân hủy của tàn thuốc lá sinh hoạt giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Thời gian phân hủy của tàn thuốc lá sinh hoạt cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-031",
+      "title": "Thời gian phân hủy của tàn thuốc lá sinh hoạt"
+    },
+    {
+      "category": "Thời gian phân hủy sinh học của vật liệu",
+      "content": "Bạn có biết Giấy báo cũ phân hủy nhanh như thế nào có thời gian tồn tại cực kỳ lâu dài, gây ảnh hưởng trực tiếp đến vi sinh vật đất và nguồn nước ngầm của chúng ta.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Giấy báo cũ phân hủy nhanh như thế nào giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Giấy báo cũ phân hủy nhanh như thế nào cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-032",
+      "title": "Giấy báo cũ phân hủy nhanh như thế nào"
+    },
+    {
+      "category": "Thời gian phân hủy sinh học của vật liệu",
+      "content": "Nghiên cứu khoa học cho thấy Vải sợi tự nhiên phân hủy nhanh hơn vải tổng hợp mất khoảng từ 100 đến 500 năm trong điều kiện tự nhiên. Việc hạn chế sử dụng là cực kỳ cấp bách.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Vải sợi tự nhiên phân hủy nhanh hơn vải tổng hợp giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Vải sợi tự nhiên phân hủy nhanh hơn vải tổng hợp cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-033",
+      "title": "Vải sợi tự nhiên phân hủy nhanh hơn vải tổng hợp"
+    },
+    {
+      "category": "Thời gian phân hủy sinh học của vật liệu",
+      "content": "Bạn có biết Thời gian phân hủy của gỗ công nghiệp có thời gian tồn tại cực kỳ lâu dài, gây ảnh hưởng trực tiếp đến vi sinh vật đất và nguồn nước ngầm của chúng ta.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Thời gian phân hủy của gỗ công nghiệp giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Thời gian phân hủy của gỗ công nghiệp cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-034",
+      "title": "Thời gian phân hủy của gỗ công nghiệp"
+    },
+    {
+      "category": "Thời gian phân hủy sinh học của vật liệu",
+      "content": "Nghiên cứu khoa học cho thấy Chai nhựa PET và hiểm họa phân hủy nghìn năm mất khoảng từ 100 đến 500 năm trong điều kiện tự nhiên. Việc hạn chế sử dụng là cực kỳ cấp bách.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Chai nhựa PET và hiểm họa phân hủy nghìn năm giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Chai nhựa PET và hiểm họa phân hủy nghìn năm cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-035",
+      "title": "Chai nhựa PET và hiểm họa phân hủy nghìn năm"
+    },
+    {
+      "category": "Thời gian phân hủy sinh học của vật liệu",
+      "content": "Bạn có biết Vỏ hộp sữa giấy mất bao lâu để phân rã có thời gian tồn tại cực kỳ lâu dài, gây ảnh hưởng trực tiếp đến vi sinh vật đất và nguồn nước ngầm của chúng ta.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Vỏ hộp sữa giấy mất bao lâu để phân rã giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Vỏ hộp sữa giấy mất bao lâu để phân rã cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-036",
+      "title": "Vỏ hộp sữa giấy mất bao lâu để phân rã"
+    },
+    {
+      "category": "Thời gian phân hủy sinh học của vật liệu",
+      "content": "Nghiên cứu khoa học cho thấy Độ bền cơ học và phân hủy của đĩa CD cũ mất khoảng từ 100 đến 500 năm trong điều kiện tự nhiên. Việc hạn chế sử dụng là cực kỳ cấp bách.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Độ bền cơ học và phân hủy của đĩa CD cũ giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Độ bền cơ học và phân hủy của đĩa CD cũ cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-037",
+      "title": "Độ bền cơ học và phân hủy của đĩa CD cũ"
+    },
+    {
+      "category": "Thời gian phân hủy sinh học của vật liệu",
+      "content": "Bạn có biết Bao bì sinh học tự phân hủy có thực sự nhanh có thời gian tồn tại cực kỳ lâu dài, gây ảnh hưởng trực tiếp đến vi sinh vật đất và nguồn nước ngầm của chúng ta.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Bao bì sinh học tự phân hủy có thực sự nhanh giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Bao bì sinh học tự phân hủy có thực sự nhanh cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-038",
+      "title": "Bao bì sinh học tự phân hủy có thực sự nhanh"
+    },
+    {
+      "category": "Thời gian phân hủy sinh học của vật liệu",
+      "content": "Nghiên cứu khoa học cho thấy Thời gian mục nát của vỏ sò và xương động vật mất khoảng từ 100 đến 500 năm trong điều kiện tự nhiên. Việc hạn chế sử dụng là cực kỳ cấp bách.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Thời gian mục nát của vỏ sò và xương động vật giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Thời gian mục nát của vỏ sò và xương động vật cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-039",
+      "title": "Thời gian mục nát của vỏ sò và xương động vật"
+    },
+    {
+      "category": "Thời gian phân hủy sinh học của vật liệu",
+      "content": "Bạn có biết Tại sao kim loại mất hàng trăm năm để rỉ sét hết có thời gian tồn tại cực kỳ lâu dài, gây ảnh hưởng trực tiếp đến vi sinh vật đất và nguồn nước ngầm của chúng ta.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Tại sao kim loại mất hàng trăm năm để rỉ sét hết giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Tại sao kim loại mất hàng trăm năm để rỉ sét hết cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-040",
+      "title": "Tại sao kim loại mất hàng trăm năm để rỉ sét hết"
+    },
+    {
+      "category": "Ứng dụng công nghệ IoT và AI trong quản lý rác",
+      "content": "Phân tích chuyên sâu về Cách thức hoạt động của Thùng rác thông minh IoT. Việc áp dụng giải pháp này giúp nâng cao tính tự động hóa, giảm chi phí vận hành đô thị lên tới 35%.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Cách thức hoạt động của Thùng rác thông minh IoT giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Cách thức hoạt động của Thùng rác thông minh IoT cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-041",
+      "title": "Cách thức hoạt động của Thùng rác thông minh IoT"
+    },
+    {
+      "category": "Ứng dụng công nghệ IoT và AI trong quản lý rác",
+      "content": "Giới thiệu mô hình Cảm biến siêu âm ultrasonic đo độ đầy thùng rác. Công nghệ này cung cấp các chỉ số đo lường chính xác theo thời gian thực, là nền tảng của các thành phố thông minh hiện đại.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Cảm biến siêu âm ultrasonic đo độ đầy thùng rác giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Cảm biến siêu âm ultrasonic đo độ đầy thùng rác cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-042",
+      "title": "Cảm biến siêu âm ultrasonic đo độ đầy thùng rác"
+    },
+    {
+      "category": "Ứng dụng công nghệ IoT và AI trong quản lý rác",
+      "content": "Phân tích chuyên sâu về Cảm biến độ ẩm thông minh phân loại rác ướt. Việc áp dụng giải pháp này giúp nâng cao tính tự động hóa, giảm chi phí vận hành đô thị lên tới 35%.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Cảm biến độ ẩm thông minh phân loại rác ướt giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Cảm biến độ ẩm thông minh phân loại rác ướt cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-043",
+      "title": "Cảm biến độ ẩm thông minh phân loại rác ướt"
+    },
+    {
+      "category": "Ứng dụng công nghệ IoT và AI trong quản lý rác",
+      "content": "Giới thiệu mô hình Ứng dụng trí tuệ nhân tạo nhận diện loại rác. Công nghệ này cung cấp các chỉ số đo lường chính xác theo thời gian thực, là nền tảng của các thành phố thông minh hiện đại.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Ứng dụng trí tuệ nhân tạo nhận diện loại rác giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Ứng dụng trí tuệ nhân tạo nhận diện loại rác cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-044",
+      "title": "Ứng dụng trí tuệ nhân tạo nhận diện loại rác"
+    },
+    {
+      "category": "Ứng dụng công nghệ IoT và AI trong quản lý rác",
+      "content": "Phân tích chuyên sâu về Hệ thống định vị GPS tối ưu hóa tuyến xe rác. Việc áp dụng giải pháp này giúp nâng cao tính tự động hóa, giảm chi phí vận hành đô thị lên tới 35%.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Hệ thống định vị GPS tối ưu hóa tuyến xe rác giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Hệ thống định vị GPS tối ưu hóa tuyến xe rác cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-045",
+      "title": "Hệ thống định vị GPS tối ưu hóa tuyến xe rác"
+    },
+    {
+      "category": "Ứng dụng công nghệ IoT và AI trong quản lý rác",
+      "content": "Giới thiệu mô hình Kết nối Firebase Realtime truyền dữ liệu IoT. Công nghệ này cung cấp các chỉ số đo lường chính xác theo thời gian thực, là nền tảng của các thành phố thông minh hiện đại.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Kết nối Firebase Realtime truyền dữ liệu IoT giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Kết nối Firebase Realtime truyền dữ liệu IoT cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-046",
+      "title": "Kết nối Firebase Realtime truyền dữ liệu IoT"
+    },
+    {
+      "category": "Ứng dụng công nghệ IoT và AI trong quản lý rác",
+      "content": "Phân tích chuyên sâu về Còi buzzer báo động phát hiện dị vật kim loại. Việc áp dụng giải pháp này giúp nâng cao tính tự động hóa, giảm chi phí vận hành đô thị lên tới 35%.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Còi buzzer báo động phát hiện dị vật kim loại giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Còi buzzer báo động phát hiện dị vật kim loại cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-047",
+      "title": "Còi buzzer báo động phát hiện dị vật kim loại"
+    },
+    {
+      "category": "Ứng dụng công nghệ IoT và AI trong quản lý rác",
+      "content": "Giới thiệu mô hình Hệ thống phân loại rác tự động bằng cánh gạt Servo. Công nghệ này cung cấp các chỉ số đo lường chính xác theo thời gian thực, là nền tảng của các thành phố thông minh hiện đại.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Hệ thống phân loại rác tự động bằng cánh gạt Servo giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Hệ thống phân loại rác tự động bằng cánh gạt Servo cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-048",
+      "title": "Hệ thống phân loại rác tự động bằng cánh gạt Servo"
+    },
+    {
+      "category": "Ứng dụng công nghệ IoT và AI trong quản lý rác",
+      "content": "Phân tích chuyên sâu về Ứng dụng Mobile Dashboard quản lý rác từ xa. Việc áp dụng giải pháp này giúp nâng cao tính tự động hóa, giảm chi phí vận hành đô thị lên tới 35%.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Ứng dụng Mobile Dashboard quản lý rác từ xa giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Ứng dụng Mobile Dashboard quản lý rác từ xa cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-049",
+      "title": "Ứng dụng Mobile Dashboard quản lý rác từ xa"
+    },
+    {
+      "category": "Ứng dụng công nghệ IoT và AI trong quản lý rác",
+      "content": "Giới thiệu mô hình Công nghệ giao tiếp không dây LoRa cho Smart City. Công nghệ này cung cấp các chỉ số đo lường chính xác theo thời gian thực, là nền tảng của các thành phố thông minh hiện đại.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Công nghệ giao tiếp không dây LoRa cho Smart City giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Công nghệ giao tiếp không dây LoRa cho Smart City cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-050",
+      "title": "Công nghệ giao tiếp không dây LoRa cho Smart City"
+    },
+    {
+      "category": "Ứng dụng công nghệ IoT và AI trong quản lý rác",
+      "content": "Phân tích chuyên sâu về Điện toán đám mây thu thập chỉ số môi trường. Việc áp dụng giải pháp này giúp nâng cao tính tự động hóa, giảm chi phí vận hành đô thị lên tới 35%.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Điện toán đám mây thu thập chỉ số môi trường giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Điện toán đám mây thu thập chỉ số môi trường cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-051",
+      "title": "Điện toán đám mây thu thập chỉ số môi trường"
+    },
+    {
+      "category": "Ứng dụng công nghệ IoT và AI trong quản lý rác",
+      "content": "Giới thiệu mô hình Bảo trì dự đoán cảm biến IoT trong thùng rác. Công nghệ này cung cấp các chỉ số đo lường chính xác theo thời gian thực, là nền tảng của các thành phố thông minh hiện đại.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Bảo trì dự đoán cảm biến IoT trong thùng rác giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Bảo trì dự đoán cảm biến IoT trong thùng rác cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-052",
+      "title": "Bảo trì dự đoán cảm biến IoT trong thùng rác"
+    },
+    {
+      "category": "Ứng dụng công nghệ IoT và AI trong quản lý rác",
+      "content": "Phân tích chuyên sâu về Hệ thống năng lượng mặt trời cho thùng rác công cộng. Việc áp dụng giải pháp này giúp nâng cao tính tự động hóa, giảm chi phí vận hành đô thị lên tới 35%.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Hệ thống năng lượng mặt trời cho thùng rác công cộng giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Hệ thống năng lượng mặt trời cho thùng rác công cộng cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-053",
+      "title": "Hệ thống năng lượng mặt trời cho thùng rác công cộng"
+    },
+    {
+      "category": "Ứng dụng công nghệ IoT và AI trong quản lý rác",
+      "content": "Giới thiệu mô hình Phân tích dữ liệu lớn cải thiện lịch trình thu gom. Công nghệ này cung cấp các chỉ số đo lường chính xác theo thời gian thực, là nền tảng của các thành phố thông minh hiện đại.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Phân tích dữ liệu lớn cải thiện lịch trình thu gom giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Phân tích dữ liệu lớn cải thiện lịch trình thu gom cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-054",
+      "title": "Phân tích dữ liệu lớn cải thiện lịch trình thu gom"
+    },
+    {
+      "category": "Ứng dụng công nghệ IoT và AI trong quản lý rác",
+      "content": "Phân tích chuyên sâu về Mô hình thùng rác IoT tiết kiệm điện năng sinh hoạt. Việc áp dụng giải pháp này giúp nâng cao tính tự động hóa, giảm chi phí vận hành đô thị lên tới 35%.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Mô hình thùng rác IoT tiết kiệm điện năng sinh hoạt giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Mô hình thùng rác IoT tiết kiệm điện năng sinh hoạt cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-055",
+      "title": "Mô hình thùng rác IoT tiết kiệm điện năng sinh hoạt"
+    },
+    {
+      "category": "Ứng dụng công nghệ IoT và AI trong quản lý rác",
+      "content": "Giới thiệu mô hình Cách chống nhiễu tín hiệu cảm biến độ ẩm đất. Công nghệ này cung cấp các chỉ số đo lường chính xác theo thời gian thực, là nền tảng của các thành phố thông minh hiện đại.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Cách chống nhiễu tín hiệu cảm biến độ ẩm đất giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Cách chống nhiễu tín hiệu cảm biến độ ẩm đất cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-056",
+      "title": "Cách chống nhiễu tín hiệu cảm biến độ ẩm đất"
+    },
+    {
+      "category": "Ứng dụng công nghệ IoT và AI trong quản lý rác",
+      "content": "Phân tích chuyên sâu về Tích hợp loa thông minh phát âm thanh nhắc nhở đổ rác. Việc áp dụng giải pháp này giúp nâng cao tính tự động hóa, giảm chi phí vận hành đô thị lên tới 35%.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Tích hợp loa thông minh phát âm thanh nhắc nhở đổ rác giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Tích hợp loa thông minh phát âm thanh nhắc nhở đổ rác cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-057",
+      "title": "Tích hợp loa thông minh phát âm thanh nhắc nhở đổ rác"
+    },
+    {
+      "category": "Ứng dụng công nghệ IoT và AI trong quản lý rác",
+      "content": "Giới thiệu mô hình Hệ thống giám sát nhiệt độ chống cháy nổ bãi rác. Công nghệ này cung cấp các chỉ số đo lường chính xác theo thời gian thực, là nền tảng của các thành phố thông minh hiện đại.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Hệ thống giám sát nhiệt độ chống cháy nổ bãi rác giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Hệ thống giám sát nhiệt độ chống cháy nổ bãi rác cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-058",
+      "title": "Hệ thống giám sát nhiệt độ chống cháy nổ bãi rác"
+    },
+    {
+      "category": "Ứng dụng công nghệ IoT và AI trong quản lý rác",
+      "content": "Phân tích chuyên sâu về Công nghệ blockchain theo dõi vòng đời rác tái chế. Việc áp dụng giải pháp này giúp nâng cao tính tự động hóa, giảm chi phí vận hành đô thị lên tới 35%.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Công nghệ blockchain theo dõi vòng đời rác tái chế giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Công nghệ blockchain theo dõi vòng đời rác tái chế cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-059",
+      "title": "Công nghệ blockchain theo dõi vòng đời rác tái chế"
+    },
+    {
+      "category": "Ứng dụng công nghệ IoT và AI trong quản lý rác",
+      "content": "Giới thiệu mô hình Tương lai của quản lý chất thải thông minh toàn cầu. Công nghệ này cung cấp các chỉ số đo lường chính xác theo thời gian thực, là nền tảng của các thành phố thông minh hiện đại.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Tương lai của quản lý chất thải thông minh toàn cầu giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Tương lai của quản lý chất thải thông minh toàn cầu cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-060",
+      "title": "Tương lai của quản lý chất thải thông minh toàn cầu"
+    },
+    {
+      "category": "Tác động môi trường và biến đổi khí hậu",
+      "content": "Đánh giá nghiêm trọng về Hiểm họa hạt vi nhựa microplastic đối với đại dương. Đây là một hồi chuông cảnh tỉnh yêu cầu toàn xã hội chung tay thay đổi thói quen xả thải ngay lập tức.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Hiểm họa hạt vi nhựa microplastic đối với đại dương giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Hiểm họa hạt vi nhựa microplastic đối với đại dương cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-061",
+      "title": "Hiểm họa hạt vi nhựa microplastic đối với đại dương"
+    },
+    {
+      "category": "Tác động môi trường và biến đổi khí hậu",
+      "content": "Tìm hiểu tác động của Rác thải nhựa làm nóng lên toàn cầu như thế nào. Hậu quả để lại cho thế hệ mai sau là vô cùng nặng nề nếu không có biện pháp ngăn chặn kịp thời.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Rác thải nhựa làm nóng lên toàn cầu như thế nào giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Rác thải nhựa làm nóng lên toàn cầu như thế nào cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-062",
+      "title": "Rác thải nhựa làm nóng lên toàn cầu như thế nào"
+    },
+    {
+      "category": "Tác động môi trường và biến đổi khí hậu",
+      "content": "Đánh giá nghiêm trọng về Khí metan sinh ra từ bãi rác hữu cơ gây hiệu ứng nhà kính. Đây là một hồi chuông cảnh tỉnh yêu cầu toàn xã hội chung tay thay đổi thói quen xả thải ngay lập tức.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Khí metan sinh ra từ bãi rác hữu cơ gây hiệu ứng nhà kính giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Khí metan sinh ra từ bãi rác hữu cơ gây hiệu ứng nhà kính cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-063",
+      "title": "Khí metan sinh ra từ bãi rác hữu cơ gây hiệu ứng nhà kính"
+    },
+    {
+      "category": "Tác động môi trường và biến đổi khí hậu",
+      "content": "Tìm hiểu tác động của Ô nhiễm kim loại nặng từ pin cũ thấm vào đất. Hậu quả để lại cho thế hệ mai sau là vô cùng nặng nề nếu không có biện pháp ngăn chặn kịp thời.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Ô nhiễm kim loại nặng từ pin cũ thấm vào đất giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Ô nhiễm kim loại nặng từ pin cũ thấm vào đất cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-064",
+      "title": "Ô nhiễm kim loại nặng từ pin cũ thấm vào đất"
+    },
+    {
+      "category": "Tác động môi trường và biến đổi khí hậu",
+      "content": "Đánh giá nghiêm trọng về Tác hại của rác thải y tế chưa qua xử lý. Đây là một hồi chuông cảnh tỉnh yêu cầu toàn xã hội chung tay thay đổi thói quen xả thải ngay lập tức.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Tác hại của rác thải y tế chưa qua xử lý giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Tác hại của rác thải y tế chưa qua xử lý cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-065",
+      "title": "Tác hại của rác thải y tế chưa qua xử lý"
+    },
+    {
+      "category": "Tác động môi trường và biến đổi khí hậu",
+      "content": "Tìm hiểu tác động của Bảo vệ động vật biển khỏi rác thải nhựa trôi nổi. Hậu quả để lại cho thế hệ mai sau là vô cùng nặng nề nếu không có biện pháp ngăn chặn kịp thời.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Bảo vệ động vật biển khỏi rác thải nhựa trôi nổi giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Bảo vệ động vật biển khỏi rác thải nhựa trôi nổi cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-066",
+      "title": "Bảo vệ động vật biển khỏi rác thải nhựa trôi nổi"
+    },
+    {
+      "category": "Tác động môi trường và biến đổi khí hậu",
+      "content": "Đánh giá nghiêm trọng về Hiện tượng phú dưỡng nguồn nước do rác hữu cơ. Đây là một hồi chuông cảnh tỉnh yêu cầu toàn xã hội chung tay thay đổi thói quen xả thải ngay lập tức.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Hiện tượng phú dưỡng nguồn nước do rác hữu cơ giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Hiện tượng phú dưỡng nguồn nước do rác hữu cơ cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-067",
+      "title": "Hiện tượng phú dưỡng nguồn nước do rác hữu cơ"
+    },
+    {
+      "category": "Tác động môi trường và biến đổi khí hậu",
+      "content": "Tìm hiểu tác động của Tác động của rác thải điện tử e-waste đến sức khỏe. Hậu quả để lại cho thế hệ mai sau là vô cùng nặng nề nếu không có biện pháp ngăn chặn kịp thời.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Tác động của rác thải điện tử e-waste đến sức khỏe giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Tác động của rác thải điện tử e-waste đến sức khỏe cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-068",
+      "title": "Tác động của rác thải điện tử e-waste đến sức khỏe"
+    },
+    {
+      "category": "Tác động môi trường và biến đổi khí hậu",
+      "content": "Đánh giá nghiêm trọng về Hiệu ứng nhà kính và gánh nặng từ các bãi chôn lấp. Đây là một hồi chuông cảnh tỉnh yêu cầu toàn xã hội chung tay thay đổi thói quen xả thải ngay lập tức.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Hiệu ứng nhà kính và gánh nặng từ các bãi chôn lấp giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Hiệu ứng nhà kính và gánh nặng từ các bãi chôn lấp cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-069",
+      "title": "Hiệu ứng nhà kính và gánh nặng từ các bãi chôn lấp"
+    },
+    {
+      "category": "Tác động môi trường và biến đổi khí hậu",
+      "content": "Tìm hiểu tác động của Sự suy giảm đa dạng sinh học do rác thải công nghiệp. Hậu quả để lại cho thế hệ mai sau là vô cùng nặng nề nếu không có biện pháp ngăn chặn kịp thời.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Sự suy giảm đa dạng sinh học do rác thải công nghiệp giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Sự suy giảm đa dạng sinh học do rác thải công nghiệp cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-070",
+      "title": "Sự suy giảm đa dạng sinh học do rác thải công nghiệp"
+    },
+    {
+      "category": "Tác động môi trường và biến đổi khí hậu",
+      "content": "Đánh giá nghiêm trọng về Mưa axit và sự phân hủy hóa chất độc hại từ rác. Đây là một hồi chuông cảnh tỉnh yêu cầu toàn xã hội chung tay thay đổi thói quen xả thải ngay lập tức.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Mưa axit và sự phân hủy hóa chất độc hại từ rác giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Mưa axit và sự phân hủy hóa chất độc hại từ rác cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-071",
+      "title": "Mưa axit và sự phân hủy hóa chất độc hại từ rác"
+    },
+    {
+      "category": "Tác động môi trường và biến đổi khí hậu",
+      "content": "Tìm hiểu tác động của Hệ sinh thái đất bị tàn phá bởi túi nilon. Hậu quả để lại cho thế hệ mai sau là vô cùng nặng nề nếu không có biện pháp ngăn chặn kịp thời.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Hệ sinh thái đất bị tàn phá bởi túi nilon giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Hệ sinh thái đất bị tàn phá bởi túi nilon cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-072",
+      "title": "Hệ sinh thái đất bị tàn phá bởi túi nilon"
+    },
+    {
+      "category": "Tác động môi trường và biến đổi khí hậu",
+      "content": "Đánh giá nghiêm trọng về Chỉ số ô nhiễm chất thải rắn toàn cầu tăng mạnh. Đây là một hồi chuông cảnh tỉnh yêu cầu toàn xã hội chung tay thay đổi thói quen xả thải ngay lập tức.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Chỉ số ô nhiễm chất thải rắn toàn cầu tăng mạnh giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Chỉ số ô nhiễm chất thải rắn toàn cầu tăng mạnh cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-073",
+      "title": "Chỉ số ô nhiễm chất thải rắn toàn cầu tăng mạnh"
+    },
+    {
+      "category": "Tác động môi trường và biến đổi khí hậu",
+      "content": "Tìm hiểu tác động của Ô nhiễm không khí từ việc đốt rác thủ công. Hậu quả để lại cho thế hệ mai sau là vô cùng nặng nề nếu không có biện pháp ngăn chặn kịp thời.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Ô nhiễm không khí từ việc đốt rác thủ công giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Ô nhiễm không khí từ việc đốt rác thủ công cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-074",
+      "title": "Ô nhiễm không khí từ việc đốt rác thủ công"
+    },
+    {
+      "category": "Tác động môi trường và biến đổi khí hậu",
+      "content": "Đánh giá nghiêm trọng về Tác động của rác thải xây dựng đến cảnh quan đô thị. Đây là một hồi chuông cảnh tỉnh yêu cầu toàn xã hội chung tay thay đổi thói quen xả thải ngay lập tức.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Tác động của rác thải xây dựng đến cảnh quan đô thị giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Tác động của rác thải xây dựng đến cảnh quan đô thị cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-075",
+      "title": "Tác động của rác thải xây dựng đến cảnh quan đô thị"
+    },
+    {
+      "category": "Tác động môi trường và biến đổi khí hậu",
+      "content": "Tìm hiểu tác động của Nguy cơ dịch bệnh bùng phát từ bãi rác không hợp vệ sinh. Hậu quả để lại cho thế hệ mai sau là vô cùng nặng nề nếu không có biện pháp ngăn chặn kịp thời.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Nguy cơ dịch bệnh bùng phát từ bãi rác không hợp vệ sinh giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Nguy cơ dịch bệnh bùng phát từ bãi rác không hợp vệ sinh cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-076",
+      "title": "Nguy cơ dịch bệnh bùng phát từ bãi rác không hợp vệ sinh"
+    },
+    {
+      "category": "Tác động môi trường và biến đổi khí hậu",
+      "content": "Đánh giá nghiêm trọng về Sự xâm nhập của hạt vi nhựa vào chuỗi thức ăn con người. Đây là một hồi chuông cảnh tỉnh yêu cầu toàn xã hội chung tay thay đổi thói quen xả thải ngay lập tức.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Sự xâm nhập của hạt vi nhựa vào chuỗi thức ăn con người giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Sự xâm nhập của hạt vi nhựa vào chuỗi thức ăn con người cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-077",
+      "title": "Sự xâm nhập của hạt vi nhựa vào chuỗi thức ăn con người"
+    },
+    {
+      "category": "Tác động môi trường và biến đổi khí hậu",
+      "content": "Tìm hiểu tác động của Trái đất nóng lên và vòng lặp ô nhiễm chất thải. Hậu quả để lại cho thế hệ mai sau là vô cùng nặng nề nếu không có biện pháp ngăn chặn kịp thời.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Trái đất nóng lên và vòng lặp ô nhiễm chất thải giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Trái đất nóng lên và vòng lặp ô nhiễm chất thải cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-078",
+      "title": "Trái đất nóng lên và vòng lặp ô nhiễm chất thải"
+    },
+    {
+      "category": "Tác động môi trường và biến đổi khí hậu",
+      "content": "Đánh giá nghiêm trọng về Sự biến mất của các rạn san hô do rác thải nhựa đại dương. Đây là một hồi chuông cảnh tỉnh yêu cầu toàn xã hội chung tay thay đổi thói quen xả thải ngay lập tức.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Sự biến mất của các rạn san hô do rác thải nhựa đại dương giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Sự biến mất của các rạn san hô do rác thải nhựa đại dương cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-079",
+      "title": "Sự biến mất của các rạn san hô do rác thải nhựa đại dương"
+    },
+    {
+      "category": "Tác động môi trường và biến đổi khí hậu",
+      "content": "Tìm hiểu tác động của Tầm quan trọng của kinh tế tuần hoàn trong bảo vệ khí hậu. Hậu quả để lại cho thế hệ mai sau là vô cùng nặng nề nếu không có biện pháp ngăn chặn kịp thời.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Tầm quan trọng của kinh tế tuần hoàn trong bảo vệ khí hậu giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Tầm quan trọng của kinh tế tuần hoàn trong bảo vệ khí hậu cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-080",
+      "title": "Tầm quan trọng của kinh tế tuần hoàn trong bảo vệ khí hậu"
+    },
+    {
+      "category": "Sáng kiến tái chế sáng tạo và giải pháp bền vững",
+      "content": "Hướng dẫn thực tế về Phương pháp ủ phân hữu cơ compost tại nhà dễ làm. Sáng kiến này không chỉ giúp giảm lượng rác thải ra môi trường mà còn mang lại giá trị kinh tế thiết thực.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Phương pháp ủ phân hữu cơ compost tại nhà dễ làm giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Phương pháp ủ phân hữu cơ compost tại nhà dễ làm cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-081",
+      "title": "Phương pháp ủ phân hữu cơ compost tại nhà dễ làm"
+    },
+    {
+      "category": "Sáng kiến tái chế sáng tạo và giải pháp bền vững",
+      "content": "Khám phá mô hình Tái chế chai nhựa làm chậu cây xanh thông minh. Phương pháp này rất dễ thực hiện và vô cùng thích hợp để áp dụng rộng rãi trong các hộ gia đình đô thị.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Tái chế chai nhựa làm chậu cây xanh thông minh giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Tái chế chai nhựa làm chậu cây xanh thông minh cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-082",
+      "title": "Tái chế chai nhựa làm chậu cây xanh thông minh"
+    },
+    {
+      "category": "Sáng kiến tái chế sáng tạo và giải pháp bền vững",
+      "content": "Hướng dẫn thực tế về Biến vỏ hộp sữa giấy thành tấm lợp sinh học. Sáng kiến này không chỉ giúp giảm lượng rác thải ra môi trường mà còn mang lại giá trị kinh tế thiết thực.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Biến vỏ hộp sữa giấy thành tấm lợp sinh học giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Biến vỏ hộp sữa giấy thành tấm lợp sinh học cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-083",
+      "title": "Biến vỏ hộp sữa giấy thành tấm lợp sinh học"
+    },
+    {
+      "category": "Sáng kiến tái chế sáng tạo và giải pháp bền vững",
+      "content": "Khám phá mô hình Mô hình gạch sinh thái ecobrick từ rác thải nhựa. Phương pháp này rất dễ thực hiện và vô cùng thích hợp để áp dụng rộng rãi trong các hộ gia đình đô thị.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Mô hình gạch sinh thái ecobrick từ rác thải nhựa giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Mô hình gạch sinh thái ecobrick từ rác thải nhựa cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-084",
+      "title": "Mô hình gạch sinh thái ecobrick từ rác thải nhựa"
+    },
+    {
+      "category": "Sáng kiến tái chế sáng tạo và giải pháp bền vững",
+      "content": "Hướng dẫn thực tế về Sáng kiến biến rác hữu cơ thành nước rửa chén sinh học. Sáng kiến này không chỉ giúp giảm lượng rác thải ra môi trường mà còn mang lại giá trị kinh tế thiết thực.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Sáng kiến biến rác hữu cơ thành nước rửa chén sinh học giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Sáng kiến biến rác hữu cơ thành nước rửa chén sinh học cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-085",
+      "title": "Sáng kiến biến rác hữu cơ thành nước rửa chén sinh học"
+    },
+    {
+      "category": "Sáng kiến tái chế sáng tạo và giải pháp bền vững",
+      "content": "Khám phá mô hình Quy trình sản xuất phân bón từ bã cà phê sinh hoạt. Phương pháp này rất dễ thực hiện và vô cùng thích hợp để áp dụng rộng rãi trong các hộ gia đình đô thị.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Quy trình sản xuất phân bón từ bã cà phê sinh hoạt giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Quy trình sản xuất phân bón từ bã cà phê sinh hoạt cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-086",
+      "title": "Quy trình sản xuất phân bón từ bã cà phê sinh hoạt"
+    },
+    {
+      "category": "Sáng kiến tái chế sáng tạo và giải pháp bền vững",
+      "content": "Hướng dẫn thực tế về Cách làm đồ chơi trẻ em từ lõi giấy vệ sinh cũ. Sáng kiến này không chỉ giúp giảm lượng rác thải ra môi trường mà còn mang lại giá trị kinh tế thiết thực.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Cách làm đồ chơi trẻ em từ lõi giấy vệ sinh cũ giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Cách làm đồ chơi trẻ em từ lõi giấy vệ sinh cũ cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-087",
+      "title": "Cách làm đồ chơi trẻ em từ lõi giấy vệ sinh cũ"
+    },
+    {
+      "category": "Sáng kiến tái chế sáng tạo và giải pháp bền vững",
+      "content": "Khám phá mô hình Ý tưởng thời trang tái chế từ phế liệu độc đáo. Phương pháp này rất dễ thực hiện và vô cùng thích hợp để áp dụng rộng rãi trong các hộ gia đình đô thị.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Ý tưởng thời trang tái chế từ phế liệu độc đáo giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Ý tưởng thời trang tái chế từ phế liệu độc đáo cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-088",
+      "title": "Ý tưởng thời trang tái chế từ phế liệu độc đáo"
+    },
+    {
+      "category": "Sáng kiến tái chế sáng tạo và giải pháp bền vững",
+      "content": "Hướng dẫn thực tế về Tái chế lốp xe cũ làm sân chơi thân thiện. Sáng kiến này không chỉ giúp giảm lượng rác thải ra môi trường mà còn mang lại giá trị kinh tế thiết thực.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Tái chế lốp xe cũ làm sân chơi thân thiện giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Tái chế lốp xe cũ làm sân chơi thân thiện cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-089",
+      "title": "Tái chế lốp xe cũ làm sân chơi thân thiện"
+    },
+    {
+      "category": "Sáng kiến tái chế sáng tạo và giải pháp bền vững",
+      "content": "Khám phá mô hình Quy trình tái chế lon bia nhôm tiết kiệm năng lượng. Phương pháp này rất dễ thực hiện và vô cùng thích hợp để áp dụng rộng rãi trong các hộ gia đình đô thị.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Quy trình tái chế lon bia nhôm tiết kiệm năng lượng giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Quy trình tái chế lon bia nhôm tiết kiệm năng lượng cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-090",
+      "title": "Quy trình tái chế lon bia nhôm tiết kiệm năng lượng"
+    },
+    {
+      "category": "Sáng kiến tái chế sáng tạo và giải pháp bền vững",
+      "content": "Hướng dẫn thực tế về Cách làm nến thơm từ dầu ăn thừa đã qua lọc. Sáng kiến này không chỉ giúp giảm lượng rác thải ra môi trường mà còn mang lại giá trị kinh tế thiết thực.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Cách làm nến thơm từ dầu ăn thừa đã qua lọc giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Cách làm nến thơm từ dầu ăn thừa đã qua lọc cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-091",
+      "title": "Cách làm nến thơm từ dầu ăn thừa đã qua lọc"
+    },
+    {
+      "category": "Sáng kiến tái chế sáng tạo và giải pháp bền vững",
+      "content": "Khám phá mô hình Sáng kiến đổi rác lấy quà tặng sinh thái đô thị. Phương pháp này rất dễ thực hiện và vô cùng thích hợp để áp dụng rộng rãi trong các hộ gia đình đô thị.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Sáng kiến đổi rác lấy quà tặng sinh thái đô thị giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Sáng kiến đổi rác lấy quà tặng sinh thái đô thị cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-092",
+      "title": "Sáng kiến đổi rác lấy quà tặng sinh thái đô thị"
+    },
+    {
+      "category": "Sáng kiến tái chế sáng tạo và giải pháp bền vững",
+      "content": "Hướng dẫn thực tế về Mô hình trường học không rác thải nhựa đầu tiên. Sáng kiến này không chỉ giúp giảm lượng rác thải ra môi trường mà còn mang lại giá trị kinh tế thiết thực.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Mô hình trường học không rác thải nhựa đầu tiên giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Mô hình trường học không rác thải nhựa đầu tiên cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-093",
+      "title": "Mô hình trường học không rác thải nhựa đầu tiên"
+    },
+    {
+      "category": "Sáng kiến tái chế sáng tạo và giải pháp bền vững",
+      "content": "Khám phá mô hình Cách biến túi nilon cũ thành sợi đan túi thời trang. Phương pháp này rất dễ thực hiện và vô cùng thích hợp để áp dụng rộng rãi trong các hộ gia đình đô thị.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Cách biến túi nilon cũ thành sợi đan túi thời trang giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Cách biến túi nilon cũ thành sợi đan túi thời trang cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-094",
+      "title": "Cách biến túi nilon cũ thành sợi đan túi thời trang"
+    },
+    {
+      "category": "Sáng kiến tái chế sáng tạo và giải pháp bền vững",
+      "content": "Hướng dẫn thực tế về Tái sử dụng bã trà làm phân bón cây trồng cực tốt. Sáng kiến này không chỉ giúp giảm lượng rác thải ra môi trường mà còn mang lại giá trị kinh tế thiết thực.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Tái sử dụng bã trà làm phân bón cây trồng cực tốt giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Tái sử dụng bã trà làm phân bón cây trồng cực tốt cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-095",
+      "title": "Tái sử dụng bã trà làm phân bón cây trồng cực tốt"
+    },
+    {
+      "category": "Sáng kiến tái chế sáng tạo và giải pháp bền vững",
+      "content": "Khám phá mô hình Quy trình tái chế giấy báo thành giấy thủ công mỹ nghệ. Phương pháp này rất dễ thực hiện và vô cùng thích hợp để áp dụng rộng rãi trong các hộ gia đình đô thị.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Quy trình tái chế giấy báo thành giấy thủ công mỹ nghệ giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Quy trình tái chế giấy báo thành giấy thủ công mỹ nghệ cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-096",
+      "title": "Quy trình tái chế giấy báo thành giấy thủ công mỹ nghệ"
+    },
+    {
+      "category": "Sáng kiến tái chế sáng tạo và giải pháp bền vững",
+      "content": "Hướng dẫn thực tế về Sản xuất năng lượng sinh học biogas từ rác hữu cơ. Sáng kiến này không chỉ giúp giảm lượng rác thải ra môi trường mà còn mang lại giá trị kinh tế thiết thực.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Sản xuất năng lượng sinh học biogas từ rác hữu cơ giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Sản xuất năng lượng sinh học biogas từ rác hữu cơ cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-097",
+      "title": "Sản xuất năng lượng sinh học biogas từ rác hữu cơ"
+    },
+    {
+      "category": "Sáng kiến tái chế sáng tạo và giải pháp bền vững",
+      "content": "Khám phá mô hình Sáng kiến thu gom rác ven biển của các tình nguyện viên. Phương pháp này rất dễ thực hiện và vô cùng thích hợp để áp dụng rộng rãi trong các hộ gia đình đô thị.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Sáng kiến thu gom rác ven biển của các tình nguyện viên giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Sáng kiến thu gom rác ven biển của các tình nguyện viên cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-098",
+      "title": "Sáng kiến thu gom rác ven biển của các tình nguyện viên"
+    },
+    {
+      "category": "Sáng kiến tái chế sáng tạo và giải pháp bền vững",
+      "content": "Hướng dẫn thực tế về Kinh nghiệm sống xanh Zero Waste giảm rác tối đa. Sáng kiến này không chỉ giúp giảm lượng rác thải ra môi trường mà còn mang lại giá trị kinh tế thiết thực.\nChủ đề này đóng vai trò quan trọng trong việc xây dựng hệ sinh thái bền vững. Việc hiểu rõ cơ chế hoạt động của Kinh nghiệm sống xanh Zero Waste giảm rác tối đa giúp chúng ta đưa ra quyết định tiêu dùng và xử lý rác thông minh hơn.\nĐặc biệt đối với các đồ án nghiên cứu IoT và Đô thị thông minh (Smart City), dữ liệu về Kinh nghiệm sống xanh Zero Waste giảm rác tối đa cung cấp cơ sở dữ liệu quan trọng để tối ưu hóa thuật toán phân loại và cải tiến cảm biến đo lường thực tế. Hãy cùng lan tỏa thông điệp sống xanh, tích cực phân loại rác thải tại nguồn để chung tay bảo vệ ngôi nhà chung Trái Đất.",
+      "id": "RAG-KB-099",
+      "title": "Kinh nghiệm sống xanh Zero Waste giảm rác tối đa"
+    }
+  ],
+  "system_prompt": "Bạn là trợ lý ảo AI thông minh và vô cùng thân thiện của hệ thống thùng rác Smart Trash.\\nDưới đây là DỮ LIỆU CẢM BIẾN IOT THỜI GIAN THỰC từ thiết bị của bạn:\\n- Số lượng rác khô hiện có: {dryCount} túi\\n- Số lượng rác ướt hiện có: {wetCount} túi\\n- Số lượng rác kim loại phát hiện: {metalCount} lần\\n- Tổng lượng rác đã phân loại: {totalCount} túi\\n- Chỉ số độ ẩm rác hiện tại: {moisture}%\\n- Hoạt động phân loại gần đây:\\n{recentLogsStr}\\n\\nDưới đây là TÀI LIỆU KIẾN THỨC MÔI TRƯỜNG BỔ SUNG (RAG) liên quan đến câu hỏi:\\n{ragKnowledgeStr}\\n\\nHƯỚNG DẪN TRẢ LỜI:\\n1. Bạn luôn luôn dựa vào và ưu tiên các tài liệu kiến thức bổ sung (RAG) được cung cấp ở trên để trả lời câu hỏi một cách chính xác, khoa học và có chiều sâu nếu câu hỏi liên quan đến tình trạng rác thải, độ ẩm, hoặc cách tái chế, bảo vệ môi trường.\\n2. Nếu người dùng hỏi một câu tối nghĩa, mơ hồ hoặc không rõ ý, bạn hãy chủ động ép/hướng lái câu hỏi đó thành một câu hỏi cụ thể liên quan đến rác thải hoặc đồ án Smart Trash tương ứng có khả năng nhất và giống nhất, mở đầu bằng gợi ý: 'Có phải bạn đã hỏi là: [Câu hỏi được ép]...' và sau đó tiến hành trả lời câu hỏi đó dựa trên dữ liệu cảm biến và tài liệu RAG.\\n3. Nếu câu hỏi không liên quan đến đồ án hoặc thùng rác và rõ nghĩa, hãy trả lời tự do như một trợ lý AI bình thường.\\n4. Hãy trả lời cực kỳ ngắn gọn, tự nhiên, sinh động và phù hợp để phát âm bằng giọng nói (trong phạm vi 1 đến 2 câu ngắn).",
+  "system_status": {
+    "currentTrash": {
+      "moisture": 39,
+      "timestamp": 1780495420749,
+      "type": "wet"
+    },
+    "dryCount": 67,
+    "lastUpdated": 1780495420749,
+    "metalCount": 21,
+    "wetCount": 66
+  }
+}
