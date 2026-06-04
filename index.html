@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <title>Smart Trash - Mobile Client</title>
+  <link rel="stylesheet" href="style.css?v=1.2">
+  <!-- Google Fonts & Icons -->
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  
+  <div class="mobile-app-container">
+    
+    <!-- Top Header -->
+    <header class="app-header">
+      <div class="brand">
+        <span class="brand-icon">🗑️</span>
+        <div class="brand-text">
+          <h2>SMART TRASH</h2>
+          <span class="status-badge online" id="cloud-status-text">Đang Kết Nối...</span>
+        </div>
+      </div>
+      <div class="time-box">
+        <span id="current-time">00:00</span>
+      </div>
+    </header>
+
+    <!-- Dangerous Metal Alert Banner -->
+    <div class="alert-banner hidden" id="metal-alert">
+      <div class="alert-content">
+        <span class="alert-icon">🚨</span>
+        <div class="alert-text">
+          <h3>KIM LOẠI NGUY HIỂM!</h3>
+          <p>Phát hiện dị vật kim loại trong ngăn phân loại.</p>
+        </div>
+      </div>
+      <button class="close-alert-btn" id="close-alert">Đã Xử Lý ✅</button>
+    </div>
+
+    <!-- MAIN VIEWPORTS CONTAINER -->
+    <main class="app-main">
+      
+      <!-- 1. DASHBOARD VIEW -->
+      <div class="view-pane" id="view-dashboard">
+        
+        <!-- Stats Cards Slide/Scroll -->
+        <section class="stats-carousel">
+          <div class="stat-card dry">
+            <span class="card-icon">🟤</span>
+            <div class="card-data">
+              <span class="card-label">Rác Khô</span>
+              <h2 id="dry-count">0</h2>
+            </div>
+          </div>
+          <div class="stat-card wet">
+            <span class="card-icon">💧</span>
+            <div class="card-data">
+              <span class="card-label">Rác Ướt</span>
+              <h2 id="wet-count">0</h2>
+            </div>
+          </div>
+          <div class="stat-card metal">
+            <span class="card-icon">⚙️</span>
+            <div class="card-data">
+              <span class="card-label">Kim Loại</span>
+              <h2 id="metal-count">0</h2>
+            </div>
+          </div>
+        </section>
+
+        <!-- Dynamic Content Rows -->
+        <div class="dashboard-rows">
+          
+          <!-- Gauge Card -->
+          <div class="mobile-card">
+            <h3>Độ Ẩm Gần Nhất</h3>
+            <div class="gauge-wrapper">
+              <div class="circular-progress">
+                <svg class="progress-svg" viewBox="0 0 100 100">
+                  <circle class="bg-circle" cx="50" cy="50" r="40"></circle>
+                  <circle class="fg-circle" id="moisture-gauge-circle" cx="50" cy="50" r="40"></circle>
+                </svg>
+                <div class="gauge-text">
+                  <span class="gauge-num" id="current-moisture">0%</span>
+                  <span class="gauge-label">Moisture</span>
+                </div>
+              </div>
+            </div>
+            <p class="moisture-status" id="moisture-status-label">Trạng thái: Khô Ráo</p>
+          </div>
+
+          <!-- Chart Card -->
+          <div class="mobile-card">
+            <h3>Tỷ Lệ Phân Phối Rác</h3>
+            <div class="chart-wrapper">
+              <canvas id="distribution-chart"></canvas>
+            </div>
+          </div>
+
+          <!-- Quick Logs Card -->
+          <div class="mobile-card">
+            <h3>Hoạt Động Gần Nhất</h3>
+            <div class="quick-logs" id="quick-logs-list">
+              <div class="empty-state">Chưa nhận được dữ liệu...</div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- 2. LOGS LIST VIEW (Hidden by default) -->
+      <div class="view-pane hidden" id="view-logs">
+        <div class="mobile-card logs-panel">
+          <div class="panel-header">
+            <h3>Lịch Sử Phân Loại</h3>
+            <button class="refresh-btn" id="btn-refresh-history">🔄</button>
+          </div>
+          
+          <div class="filter-bar">
+            <select id="filter-type" class="mobile-select">
+              <option value="all">Tất Cả Loại Rác</option>
+              <option value="dry">Rác Khô</option>
+              <option value="wet">Rác Ướt</option>
+              <option value="metal">Rác Kim Loại</option>
+            </select>
+          </div>
+
+          <div class="table-wrapper">
+            <table class="mobile-table">
+              <thead>
+                <tr>
+                  <th style="width: 15%; text-align: center;">STT</th>
+                  <th style="width: 35%;">Loại Rác</th>
+                  <th style="width: 20%;">Độ Ẩm</th>
+                  <th style="width: 30%;">Thời Gian</th>
+                </tr>
+              </thead>
+              <tbody id="history-table-body">
+                <tr>
+                  <td colspan="4" class="table-empty">Đang đồng bộ dữ liệu...</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+
+      <!-- 3. CONFIG SETTINGS VIEW (Hidden by default) -->
+      <div class="view-pane hidden" id="view-settings">
+        <div class="mobile-card settings-panel">
+          <h3>Cấu Hình Hệ Thống</h3>
+          <p class="settings-desc">Thay đổi liên kết Firebase và cấu hình âm thanh báo động tại đây.</p>
+          
+          <div class="form-group">
+            <label for="firebase-db-url">Firebase Database URL</label>
+            <input type="text" id="firebase-db-url" value="https://smart-trash-iot-c0ec4-default-rtdb.asia-southeast1.firebasedatabase.app" placeholder="https://your-project.firebasedatabase.app">
+          </div>
+
+          <div class="form-group toggle-group">
+            <div class="toggle-label">
+              <h4>Âm thanh báo động</h4>
+              <p>Phát còi báo động khi phát hiện kim loại</p>
+            </div>
+            <div class="toggle-switch">
+              <input type="checkbox" id="buzzer-sound-active" checked>
+              <span class="slider"></span>
+            </div>
+          </div>
+
+          <button class="save-btn" id="btn-save-settings">Lưu Cấu Hình</button>
+        </div>
+      </div>
+
+    </main>
+
+    <!-- Floating Voice Assistant Mic Button -->
+    <button class="voice-fab" id="btn-voice-assistant" title="Trợ lý ảo giọng nói">
+      <span class="mic-icon">🎙️</span>
+    </button>
+
+    <!-- Voice Assistant Bottom Sheet Overlay -->
+    <div class="voice-overlay hidden" id="voice-overlay">
+      <div class="voice-sheet">
+        <div class="voice-sheet-header">
+          <h3>Trợ Lý Ảo Giọng Nói AI</h3>
+          <button class="close-voice-btn" id="btn-close-voice">✖</button>
+        </div>
+        <div class="voice-sheet-body">
+          <!-- Voice Mode Selector Segment -->
+          <div class="voice-mode-selector">
+            <button class="mode-btn active" id="btn-mode-db">
+              <span class="mode-icon">📊</span> Tra Cứu IoT
+            </button>
+            <button class="mode-btn" id="btn-mode-llm">
+              <span class="mode-icon">✨</span> Hỏi Đáp Tự Do
+            </button>
+          </div>
+
+          <div class="voice-status-container">
+            <div class="pulse-ring"></div>
+            <div class="voice-mic-indicator">🎙️</div>
+            <p class="voice-status-text" id="voice-status-text">Đang lắng nghe...</p>
+          </div>
+          <div class="dialog-box">
+            <div class="dialog-bubble user-bubble hidden" id="user-speech-bubble">
+              <span class="bubble-label">Bạn nói:</span>
+              <p id="user-speech-text">...</p>
+            </div>
+            <div class="dialog-bubble ai-bubble hidden" id="ai-response-bubble">
+              <span class="bubble-label">Trợ lý AI:</span>
+              <p id="ai-response-text">...</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- BOTTOM APP NAVIGATION BAR -->
+    <nav class="app-nav">
+      <a href="#" class="nav-item active" id="btn-dashboard">
+        <span class="nav-icon">📊</span>
+        <span class="nav-label">Thống Kê</span>
+      </a>
+      <a href="#" class="nav-item" id="btn-logs">
+        <span class="nav-icon">📋</span>
+        <span class="nav-label">Nhật Ký</span>
+      </a>
+      <a href="#" class="nav-item" id="btn-settings">
+        <span class="nav-icon">⚙️</span>
+        <span class="nav-label">Cài Đặt</span>
+      </a>
+    </nav>
+
+  </div>
+
+  <script src="renderer.js"></script>
+</body>
+</html>
